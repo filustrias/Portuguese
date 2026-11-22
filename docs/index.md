@@ -19,8 +19,8 @@ features:
     details: How to read the IPA transcriptions, and the sounds of Lisbon Portuguese.
     link: /pronunciation
     linkText: Open
-  - icon: "01–10"
-    title: Pimsleur — Lessons 01 to 10
+  - icon: "01–20"
+    title: Pimsleur — Lessons 01 to 20
     details: Dialogue, concepts, vocabulary, exercises and an informal version, with the audio of each lesson.
     link: /pimsleur_portuguese_01
     linkText: Start with lesson 01
