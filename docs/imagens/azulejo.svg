@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="450" viewBox="0 0 680 450">
+  <defs>
+    <pattern id="tile" width="113.3333" height="112.5" patternUnits="userSpaceOnUse" viewBox="0 0 100 100" preserveAspectRatio="none">
+      <rect width="100" height="100" fill="#f6f2e7"/>
+      <!-- corner quarter rosettes: four tiles together form a full rosette -->
+      <g fill="#1d4f9c">
+        <path d="M0 0h22a22 22 0 0 1-22 22z"/>
+        <path d="M100 0v22a22 22 0 0 1-22-22z"/>
+        <path d="M0 100v-22a22 22 0 0 1 22 22z"/>
+        <path d="M100 100h-22a22 22 0 0 1 22-22z"/>
+      </g>
+      <g fill="#f6f2e7">
+        <circle cx="0" cy="0" r="8"/>
+        <circle cx="100" cy="0" r="8"/>
+        <circle cx="0" cy="100" r="8"/>
+        <circle cx="100" cy="100" r="8"/>
+      </g>
+      <g fill="#e0a526">
+        <circle cx="0" cy="0" r="4"/>
+        <circle cx="100" cy="0" r="4"/>
+        <circle cx="0" cy="100" r="4"/>
+        <circle cx="100" cy="100" r="4"/>
+      </g>
+      <!-- curved leaves along the edges -->
+      <g fill="none" stroke="#1d4f9c" stroke-width="3.2" stroke-linecap="round">
+        <path d="M30 2c8 10 32 10 40 0"/>
+        <path d="M30 98c8-10 32-10 40 0"/>
+        <path d="M2 30c10 8 10 32 0 40"/>
+        <path d="M98 30c-10 8-10 32 0 40"/>
+      </g>
+      <!-- central four-petal flower -->
+      <g fill="#1d4f9c">
+        <path d="M50 18c9 10 9 22 0 30c-9-8-9-20 0-30z"/>
+        <path d="M50 82c9-10 9-22 0-30c-9 8-9 20 0 30z"/>
+        <path d="M18 50c10-9 22-9 30 0c-8 9-20 9-30 0z"/>
+        <path d="M82 50c-10-9-22-9-30 0c8 9 20 9 30 0z"/>
+      </g>
+      <g fill="#3f78c8">
+        <path d="M27 27c8 0 14 4 15 15c-11-1-15-7-15-15z"/>
+        <path d="M73 27c-8 0-14 4-15 15c11-1 15-7 15-15z"/>
+        <path d="M27 73c8 0 14-4 15-15c-11 1-15 7-15 15z"/>
+        <path d="M73 73c-8 0-14-4-15-15c11 1 15 7 15 15z"/>
+      </g>
+      <circle cx="50" cy="50" r="6.5" fill="#f6f2e7" stroke="#1d4f9c" stroke-width="2.5"/>
+      <circle cx="50" cy="50" r="2.5" fill="#e0a526"/>
+      <!-- glaze joints -->
+      <rect x="0.4" y="0.4" width="99.2" height="99.2" fill="none" stroke="#c9c0ab" stroke-width="0.8"/>
+    </pattern>
+  </defs>
+  <rect width="680" height="450" fill="url(#tile)"/>
+</svg>
