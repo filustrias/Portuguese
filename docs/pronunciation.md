@@ -1,79 +1,111 @@
 # Pronunciation guide
 
-Every Portuguese phrase in this notebook comes with an English-style respelling in the **Pronunciation** column. It is covered by stripes: try to read the Portuguese first, then click to check. The button at the top of each lesson shows or hides all of it at once.
+Every Portuguese phrase in this notebook comes with a transcription in the **International Phonetic Alphabet** (IPA), in the **IPA** column. It is covered by stripes: try to read the Portuguese first, then click to check. The button at the top of each lesson shows or hides all of it at once.
 
-The respelling follows the standard pronunciation of **Lisbon**. It is an approximation for English speakers, not a phonetic transcription: always trust the audio over the letters.
+The transcription follows the standard pronunciation of **Lisbon**. It is a broad phonetic transcription: it shows every sound you need to tell words apart, plus the reduced vowels, the nasal vowels and the *sh* sounds that make European Portuguese sound the way it does. It leaves out finer details that you will pick up from the audio.
 
-## How to read the respelling
+## How to read a transcription
 
-**Syllables and stress.** Syllables are joined by hyphens and the stressed syllable is in CAPITALS: *obrigado* (<Lat>oh-bree-GAH-doo</Lat> - thank you).
+**Brackets.** Each transcription sits between square brackets: *obrigado* (<Lat>[ɔbɾiˈɡadu]</Lat> - thank you).
 
-**One word, one block.** Words are separated by spaces, as in the Portuguese: *um pouco* (<Lat>oong POH-koo</Lat> - a little).
+**Stress.** The mark **ˈ** comes right *before* the stressed syllable: in [ɔbɾiˈɡadu] the stress falls on *ga*. Words of one syllable carry no mark.
 
-## Vowels
+**Words and pauses.** Spaces separate words as in the spelling. A short pause, usually a comma, is shown with **|**; the end of a sentence with **‖**: *Bom dia, Maria. Como está?* (<Lat>[bõ ˈdiɐ | mɐˈɾiɐ ‖ ˈkomu ɨʃˈta]</Lat> - Good morning, Maria. How are you?). The rising tone of a question is not written: listen for it.
 
-| Spelling | Written as | Sounds like | Example |
+**Linking.** A word-final *s* changes with the next word, and the transcription shows it: *dois* [dojʃ], *dois euros* (<Lat>[dojz ˈewɾuʃ]</Lat> - two euros), *dois dólares* (<Lat>[dojʒ ˈdɔlɐɾɨʃ]</Lat> - two dollars).
+
+## Stressed vowels
+
+| Spelling | Symbol | Sounds like | Example |
 |:--|:--|:--|:--|
-| stressed **a**, **á** | AH | *father* | *falo* (<Lat>FAH-loo</Lat> - I speak) |
-| unstressed **a**, and **a** before m/n | uh | *about* | *senhora* (<Lat>suh-NYAW-ruh</Lat> - madam) |
-| **é**, open e | EH | *bed* | *café* (<Lat>kuh-FEH</Lat> - coffee) |
-| **ê**, closed e | AY | *day*, but shorter | *você* (<Lat>voh-SAY</Lat> - you) |
-| unstressed **e** | uh | very short, often almost silent | *percebe* (<Lat>pur-SEH-buh</Lat> - understands) |
-| initial unstressed **es-** | ish | *fish* | *está* (<Lat>ish-TAH</Lat> - is) |
-| the word **e** (and) | ee | *see* | *e você?* (<Lat>ee voh-SAY</Lat> - and you?) |
-| **i**, **í** | EE | *see* | *aqui* (<Lat>uh-KEE</Lat> - here) |
-| **ó**, open o | AW | *law* | *agora* (<Lat>uh-GAW-ruh</Lat> - now) |
-| **ô**, closed o | OH | *go*, but pure | *senhor* (<Lat>suh-NYOHR</Lat> - sir) |
-| unstressed **o**, final **-o** | oo | *book* | *obrigado* (<Lat>oh-bree-GAH-doo</Lat>) |
-| **u**, **ú** | OO | *food* | *tudo* (<Lat>TOO-doo</Lat> - everything) |
+| **a**, **á** | [a] | *father*, short | *falo* (<Lat>[ˈfalu]</Lat> - I speak) |
+| **é**, open **e** | [ɛ] | *bed* | *café* (<Lat>[kɐˈfɛ]</Lat> - coffee) |
+| **ê**, closed **e** | [e] | *day*, without the glide | *você* (<Lat>[vɔˈse]</Lat> - you) |
+| **e** before **lh**, **nh**, **ch**, **j** | [ɐ] | *cup* | *tenho* (<Lat>[ˈtɐɲu]</Lat> - I have) |
+| **i**, **í** | [i] | *see* | *aqui* (<Lat>[ɐˈki]</Lat> - here) |
+| **ó**, open **o** | [ɔ] | *law*, short | *agora* (<Lat>[ɐˈɡɔɾɐ]</Lat> - now) |
+| **ô**, closed **o** | [o] | *go*, without the glide | *senhor* (<Lat>[sɨˈɲoɾ]</Lat> - sir) |
+| **u**, **ú** | [u] | *food* | *tudo* (<Lat>[ˈtudu]</Lat> - everything) |
 
-Unstressed vowels shrink a lot in Portugal. That is the main difference from Brazilian Portuguese: *percebe* sounds closer to *pur-SEHB* than to *per-SEH-bee*. The respelling writes these vowels as a light *uh* so that you can still see them.
+Spelling does not always tell you whether a stressed *e* or *o* is open or closed: *percebo* (<Lat>[pɨɾˈsebu]</Lat>) but *percebe* (<Lat>[pɨɾˈsɛbɨ]</Lat>). The transcription always does.
+
+## Unstressed vowels
+
+This is the biggest difference from Brazilian Portuguese. Away from the stress, vowels shrink:
+
+| Spelling | Symbol | Sounds like | Example |
+|:--|:--|:--|:--|
+| unstressed **a**; **a** before **m**, **n**, **nh** | [ɐ] | *about* | *senhora* (<Lat>[sɨˈɲɔɾɐ]</Lat> - madam), *cama* (<Lat>[ˈkɐmɐ]</Lat> - bed) |
+| unstressed **e** | [ɨ] | a very short, closed *uh*, often dropped | *percebe* (<Lat>[pɨɾˈsɛbɨ]</Lat> - understands), *de* (<Lat>[dɨ]</Lat> - of) |
+| unstressed **e** at the start of a word | [ɨ] or [i] | | *estar* (<Lat>[ɨʃˈtaɾ]</Lat> - to be), *então* (<Lat>[ẽˈtɐ̃w̃]</Lat> - so) |
+| the word **e** (and) | [i] | *see* | *e você?* (<Lat>[i vɔˈse]</Lat> - and you?) |
+| unstressed **o**, final **-o** | [u] | *book* | *obrigado* (<Lat>[ɔbɾiˈɡadu]</Lat>), *o* (<Lat>[u]</Lat> - the) |
+| unstressed **i**, **u** | [i], [u] | unchanged | *dinheiro* (<Lat>[diˈɲɐjɾu]</Lat> - money) |
+
+The vowel [ɨ] is so weak in Lisbon that it often disappears: *desculpe* [dɨʃˈkuɫpɨ] is often heard as [dʃˈkuɫp]. The transcription keeps the [ɨ] so that you can see where it would be.
+
+Some common words keep an unstressed open vowel: *obrigado* and *olá* start with [ɔ], *você* has [ɔ] before the stress.
 
 ## Nasal vowels
 
-A vowel followed by **m** or **n** in the same syllable, or written with a tilde (**ã**, **õ**), is nasal: air goes through the nose. The respelling writes nasal vowels with **ng**. Do not pronounce a hard *g*: just let the vowel ring in the nose.
+A vowel followed by **m** or **n** in the same syllable, or written with a tilde (**ã**, **õ**), is nasal: air goes through the nose as well as the mouth. The **m** or **n** itself is not pronounced. IPA writes nasality with a tilde over the vowel.
 
-| Spelling | Written as | Example |
+| Spelling | Symbol | Example |
 |:--|:--|:--|
-| **ão** | owng | *não* (<Lat>nowng</Lat> - no) |
-| **em**, **en**, **ém** | ayng | *bem* (<Lat>bayng</Lat> - well), *também* (<Lat>tuhm-BAYNG</Lat> - also) |
-| **im**, **in** | eeng | *sim* (<Lat>seeng</Lat> - yes), *inglês* (<Lat>eeng-GLAYSH</Lat> - English) |
-| **om**, **on** | ong | *bom* (<Lat>bong</Lat> - good), *com* (<Lat>kong</Lat> - with) |
-| **um**, **un** | oong | *um* (<Lat>oong</Lat> - one, a) |
-| **am**, **an**, **ã** | uhng / uhn | *quanto* (<Lat>KWUHN-too</Lat> - how much) |
-| **õe** | oyng | *põe* (<Lat>poyng</Lat> - puts) |
-| **ui** in *muito* | ooyng | *muito* (<Lat>MOOYNG-too</Lat> - very) |
+| **am**, **an**, **ã** | [ɐ̃] | *quanto* (<Lat>[ˈkwɐ̃tu]</Lat> - how much) |
+| **em**, **en** (inside a word) | [ẽ] | *tempo* (<Lat>[ˈtẽpu]</Lat> - time) |
+| **im**, **in** | [ĩ] | *sim* (<Lat>[sĩ]</Lat> - yes), *inglês* (<Lat>[ĩˈɡleʃ]</Lat> - English) |
+| **om**, **on** | [õ] | *bom* (<Lat>[bõ]</Lat> - good), *onde* (<Lat>[ˈõdɨ]</Lat> - where) |
+| **um**, **un** | [ũ] | *um* (<Lat>[ũ]</Lat> - one, a) |
 
-## Diphthongs
+## Nasal diphthongs
 
-| Spelling | Written as | Example |
+| Spelling | Symbol | Example |
 |:--|:--|:--|
-| **ei** | ay | *sei* (<Lat>say</Lat> - I know) |
-| **ou** | oh | *sou* (<Lat>soh</Lat> - I am) |
-| **eu** | EH-oo | *eu* (<Lat>EH-oo</Lat> - I) |
-| **ai** | y (as in *my*) | *mais* (<Lat>mysh</Lat> - more) |
-| **oi** | oy | *dois* (<Lat>doysh</Lat> - two) |
+| **ão**, final unstressed **-am** | [ɐ̃w̃] | *não* (<Lat>[nɐ̃w̃]</Lat> - no), *custam* (<Lat>[ˈkuʃtɐ̃w̃]</Lat> - they cost) |
+| final **-em**, **-ém**, **-ens**, **ãe** | [ɐ̃j̃] | *bem* (<Lat>[bɐ̃j̃]</Lat> - well), *também* (<Lat>[tɐ̃ˈbɐ̃j̃]</Lat> - also), *mãe* (<Lat>[mɐ̃j̃]</Lat> - mother) |
+| **õe** | [õj̃] | *põe* (<Lat>[põj̃]</Lat> - puts) |
+| **ui** in *muito* | [ũj̃] | *muito* (<Lat>[ˈmũj̃tu]</Lat> - very) |
+
+In Lisbon, final *-em* is not [ẽ] but [ɐ̃j̃]: *bem* rhymes roughly with a nasal English *lane* said with the vowel of *cup*.
+
+## Oral diphthongs
+
+| Spelling | Symbol | Example |
+|:--|:--|:--|
+| **ei** | [ɐj] | *sei* (<Lat>[sɐj]</Lat> - I know), *carteira* (<Lat>[kɐɾˈtɐjɾɐ]</Lat> - wallet) |
+| **ou** | [o] | *sou* (<Lat>[so]</Lat> - I am), *pouco* (<Lat>[ˈpoku]</Lat> - little) |
+| **eu** | [ew] | *eu* (<Lat>[ew]</Lat> - I), *euro* (<Lat>[ˈewɾu]</Lat> - euro) |
+| **ai** | [aj] | *mais* (<Lat>[majʃ]</Lat> - more) |
+| **oi** | [oj] | *dois* (<Lat>[dojʃ]</Lat> - two), *coisa* (<Lat>[ˈkojzɐ]</Lat> - thing) |
+| **au**, **ao** | [aw] | *ao* (<Lat>[aw]</Lat> - to the), *paus* (<Lat>[pawʃ]</Lat> - sticks) |
+
+The Lisbon *ei* is [ɐj], close to English *eye* said with the vowel of *cup*, not the [ej] of Brazil or northern Portugal.
 
 ## Consonants
 
-| Spelling | Written as | Example |
-|:--|:--|:--|
-| **s** / **z** at the end of a syllable | sh | *inglês* (<Lat>eeng-GLAYSH</Lat>), *faz favor* (<Lat>fahsh fuh-VOHR</Lat>) |
-| **s** / **z** before a voiced consonant | zh | *mesmo* (<Lat>MAYZH-moo</Lat> - same) |
-| final **s** before a word starting with a vowel | z | *dois euros* (<Lat>doyz EH-oo-roosh</Lat> - two euros) |
-| **s** between vowels | z | *casa* (<Lat>KAH-zuh</Lat> - house) |
-| **ç**, **c** before e/i, **ss** | s | *licença* (<Lat>lee-SENG-suh</Lat> - permission) |
-| **ch**, usually **x** | sh | *chamo* (<Lat>SHUH-moo</Lat> - I call) |
-| **j**, **g** before e/i | zh | *já* (<Lat>zhah</Lat> - already), *gente* (<Lat>ZHAYN-tuh</Lat> - people) |
-| **lh** | ly | *olhe* (<Lat>AW-lyuh</Lat> - look) |
-| **nh** | ny | *minha* (<Lat>MEE-nyuh</Lat> - my) |
-| single **r** between vowels | r (quick tap, like *t* in American *water*) | *agora* (<Lat>uh-GAW-ruh</Lat>) |
-| initial **r**, **rr** | rr (in the throat, like French *r*) | *restaurante* (<Lat>rrush-tow-RUHN-tuh</Lat>) |
-| **qu**, **gu** before e/i | k, g | *aqui* (<Lat>uh-KEE</Lat>), *quer* (<Lat>kehr</Lat> - wants) |
-| **h** | silent | *hotel* (<Lat>aw-TEHL</Lat>) |
+| Spelling | Symbol | Sounds like | Example |
+|:--|:--|:--|:--|
+| **s**, **z** at the end of a syllable, before a pause or a voiceless consonant | [ʃ] | *sh*ip | *inglês* (<Lat>[ĩˈɡleʃ]</Lat>), *faz favor* (<Lat>[faʃ fɐˈvoɾ]</Lat>) |
+| the same, before a voiced consonant | [ʒ] | mea*s*ure | *mesmo* (<Lat>[ˈmeʒmu]</Lat> - same) |
+| final **s**, **z** before a vowel | [z] | *z*oo | *dois euros* (<Lat>[dojz ˈewɾuʃ]</Lat> - two euros) |
+| **s** between vowels, **z** | [z] | *z*oo | *casa* (<Lat>[ˈkazɐ]</Lat> - house) |
+| **s** at the start, **ss**, **ç**, **c** before e/i | [s] | *s*ee | *licença* (<Lat>[liˈsẽsɐ]</Lat> - permission) |
+| **ch**, usually **x** | [ʃ] | *sh*ip | *chamo* (<Lat>[ˈʃɐmu]</Lat> - I call) |
+| **j**, **g** before e/i | [ʒ] | mea*s*ure | *já* (<Lat>[ʒa]</Lat> - already), *gente* (<Lat>[ˈʒẽtɨ]</Lat> - people) |
+| **lh** | [ʎ] | mi*lli*on, as one sound | *olhe* (<Lat>[ˈɔʎɨ]</Lat> - look) |
+| **nh** | [ɲ] | ca*ny*on, as one sound | *minha* (<Lat>[ˈmiɲɐ]</Lat> - my) |
+| single **r** between vowels, after a consonant, at the end of a syllable | [ɾ] | a quick tap, like the *t* in American *water* | *agora* (<Lat>[ɐˈɡɔɾɐ]</Lat>), *falar* (<Lat>[fɐˈlaɾ]</Lat> - to speak) |
+| **r** at the start of a word, **rr**, **r** after **n**, **l**, **s** | [ʁ] | in the throat, like French *r* | *restaurante* (<Lat>[ʁɨʃtawˈɾɐ̃tɨ]</Lat>), *carro* (<Lat>[ˈkaʁu]</Lat> - car) |
+| **l** at the end of a syllable | [ɫ] | dark *l*, as in *full* | *Portugal* (<Lat>[puɾtuˈɡaɫ]</Lat>), *desculpe* (<Lat>[dɨʃˈkuɫpɨ]</Lat>) |
+| **qu**, **gu** before e/i | [k], [ɡ] | | *aqui* (<Lat>[ɐˈki]</Lat>), *quer* (<Lat>[kɛɾ]</Lat> - wants) |
+| **qu**, **gu** before a/o | [kw], [ɡw] | | *quanto* (<Lat>[ˈkwɐ̃tu]</Lat>), *água* (<Lat>[ˈaɡwɐ]</Lat> - water) |
+| **h** | silent | | *hotel* (<Lat>[ɔˈtɛɫ]</Lat>) |
+
+The other consonants, [p b t d k ɡ f v m n l], are close to English, but [p t k] have no puff of air after them, and [t d] are made with the tongue touching the teeth. Between vowels, [b d ɡ] soften into a light, breathy version of themselves: *nada* is closer to [ˈnaðɐ]. The transcription keeps the plain letters, so follow the audio here.
 
 ## Tips
 
-- **Swallow the unstressed vowels.** Lisbon speech sounds fast and consonant-heavy: *desculpe* (<Lat>dush-KOOL-puh</Lat> - excuse me) is often just *dshkoolp*.
-- **The *sh* is everywhere.** Every *s* at the end of a word before a pause sounds *sh*: *Estados Unidos* (<Lat>ish-TAH-dooz oo-NEE-doosh</Lat> - United States).
-- **Questions rise.** A yes/no question is the same sentence with rising intonation: *Fala inglês.* (<Lat>FAH-luh eeng-GLAYSH.</Lat> - You speak English.) and *Fala inglês?* (<Lat>FAH-luh eeng-GLAYSH?</Lat> - Do you speak English?)
+- **Swallow the unstressed vowels.** Lisbon speech sounds fast and consonant-heavy: aim for the stressed syllable and let [ɨ] almost vanish.
+- **The [ʃ] is everywhere.** Every *s* at the end of a word before a pause sounds [ʃ]: *Estados Unidos* (<Lat>[ɨʃˈtaduz uˈniduʃ]</Lat> - United States).
+- **Questions rise.** A yes/no question is the same sentence with rising intonation: *Fala inglês.* (<Lat>[ˈfalɐ ĩˈɡleʃ]</Lat> - You speak English.) and *Fala inglês?* (<Lat>[ˈfalɐ ĩˈɡleʃ]</Lat> - Do you speak English?) have the same transcription.

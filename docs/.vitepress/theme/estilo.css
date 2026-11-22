@@ -167,6 +167,13 @@ html[data-tamanho='g'] {
   text-align: inherit;
 }
 
+/* IPA needs a font with the full set of phonetic symbols and combining tildes,
+   whatever reading font is chosen. */
+.lat-texto {
+  font-family: 'Source Sans 3 Variable', 'Segoe UI', 'Noto Sans', 'Lucida Sans Unicode', 'Arial Unicode MS', sans-serif;
+  font-variant-ligatures: none;
+}
+
 .lat[aria-expanded='false'] {
   background: repeating-linear-gradient(135deg, var(--lat-listra-a) 0 6px, var(--lat-listra-b) 6px 12px);
 }

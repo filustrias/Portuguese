@@ -1,7 +1,8 @@
 import type MarkdownIt from 'markdown-it'
 
-// In tables with a column named "Pronunciation", wraps every cell of that
-// column in the <Lat> component, which keeps the text covered until clicked.
+// In tables with a column named "IPA" (or "Pronunciation"), wraps every cell of
+// that column in the <Lat> component, which keeps the text covered until clicked.
+const colunasCobertas = ['ipa', 'pronunciation']
 export function latinizadoNasTabelas(md: MarkdownIt) {
   md.core.ruler.push('latinizado-nas-tabelas', (state) => {
     const tokens = state.tokens
@@ -24,7 +25,7 @@ export function latinizadoNasTabelas(md: MarkdownIt) {
           break
         case 'th_open':
           celula++
-          if (tokens[i + 1]?.content.trim().toLowerCase() === 'pronunciation') coluna = celula
+          if (colunasCobertas.includes(tokens[i + 1]?.content.trim().toLowerCase() ?? '')) coluna = celula
           break
         case 'td_open': {
           celula++

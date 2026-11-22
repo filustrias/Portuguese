@@ -8,51 +8,51 @@ unidade: 10
 
 João meets Maria in the morning and invites her for a coffee.
 
-| Who | Portuguese | Pronunciation | English |
+| Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| João | Bom dia, Maria. Como está? | bong DEE-uh, muh-REE-uh. KOH-moo ish-TAH? | Good morning, Maria. How are you? |
-| Maria | Bem, obrigada. Aonde é que vai? | bayng, oh-bree-GAH-duh. uh-OHN-duh eh kuh vy? | Fine, thank you. Where are you going? |
-| João | Vou ao café. E você? | voh ow kuh-FEH. ee voh-SAY? | I'm going to the café. And you? |
-| Maria | Não sei. | nowng say. | I don't know. |
-| João | Quer tomar um café? | kehr too-MAHR oong kuh-FEH? | Would you like to have a coffee? |
-| Maria | Quero. Obrigada. | KEH-roo. oh-bree-GAH-duh. | Yes, I would. Thank you. |
-| João | Então vamos tomar um café e comer alguma coisa. | ayng-TOWNG VUH-moosh too-MAHR oong kuh-FEH ee koo-MAYR ahl-GOO-muh KOY-zuh. | Then let's have a coffee and eat something. |
+| João | Bom dia, Maria. Como está? | [bõ ˈdiɐ | mɐˈɾiɐ ‖ ˈkomu ɨʃˈta] | Good morning, Maria. How are you? |
+| Maria | Bem, obrigada. Aonde é que vai? | [bɐ̃j̃ | ɔbɾiˈɡadɐ ‖ ɐˈõdɨ ɛ kɨ vaj] | Fine, thank you. Where are you going? |
+| João | Vou ao café. E você? | [vo aw kɐˈfɛ ‖ i vɔˈse] | I'm going to the café. And you? |
+| Maria | Não sei. | [nɐ̃w̃ sɐj] | I don't know. |
+| João | Quer tomar um café? | [kɛɾ tuˈmaɾ ũ kɐˈfɛ] | Would you like to have a coffee? |
+| Maria | Quero. Obrigada. | [ˈkɛɾu ‖ ɔbɾiˈɡadɐ] | Yes, I would. Thank you. |
+| João | Então vamos tomar um café e comer alguma coisa. | [ẽˈtɐ̃w̃ ˈvɐmuʃ tuˈmaɾ ũ kɐˈfɛ i kuˈmeɾ aɫˈɡumɐ ˈkojzɐ] | Then let's have a coffee and eat something. |
 
 ## Concepts
 
-**Price, singular and plural.** The verb agrees with what is being priced: *Quanto é que custa a água?* (<Lat>KWUHN-too eh kuh KOOSH-tuh uh AH-gwuh?</Lat> - How much is the water?) but *Quanto é que custam as castanhas?* (<Lat>KWUHN-too eh kuh KOOSH-towng ush kush-TUH-nyush?</Lat> - How much are the chestnuts?), *Quanto é que custam duas bicas?* (<Lat>KWUHN-too eh kuh KOOSH-towng DOO-uzh BEE-kush?</Lat> - How much are two espressos?)
+**Price, singular and plural.** The verb agrees with what is being priced: *Quanto é que custa a água?* (<Lat>[ˈkwɐ̃tu ɛ kɨ ˈkuʃtɐ ɐ ˈaɡwɐ]</Lat> - How much is the water?) but *Quanto é que custam as castanhas?* (<Lat>[ˈkwɐ̃tu ɛ kɨ ˈkuʃtɐ̃w̃ ɐʃ kɐʃˈtɐɲɐʃ]</Lat> - How much are the chestnuts?), *Quanto é que custam duas bicas?* (<Lat>[ˈkwɐ̃tu ɛ kɨ ˈkuʃtɐ̃w̃ ˈduɐʒ ˈbikɐʃ]</Lat> - How much are two espressos?)
 
-**To like takes *de*.** *Gostar* (<Lat>goosh-TAHR</Lat> - to like) always needs *de* (<Lat>duh</Lat> - of): *Gosto de bica.* (<Lat>GAWSH-too duh BEE-kuh.</Lat> - I like espresso.), *Não gosto de água mineral.* (<Lat>nowng GAWSH-too duh AH-gwuh mee-nuh-RAHL.</Lat> - I don't like mineral water.), *Gosto muito de Portugal.* (<Lat>GAWSH-too MOOYNG-too duh poor-too-GAHL.</Lat> - I really like Portugal.)
+**To like takes *de*.** *Gostar* (<Lat>[ɡuʃˈtaɾ]</Lat> - to like) always needs *de* (<Lat>[dɨ]</Lat> - of): *Gosto de bica.* (<Lat>[ˈɡɔʃtu dɨ ˈbikɐ]</Lat> - I like espresso.), *Não gosto de água mineral.* (<Lat>[nɐ̃w̃ ˈɡɔʃtu dɨ ˈaɡwɐ minɨˈɾaɫ]</Lat> - I don't like mineral water.), *Gosto muito de Portugal.* (<Lat>[ˈɡɔʃtu ˈmũj̃tu dɨ puɾtuˈɡaɫ]</Lat> - I really like Portugal.)
 
-**Coffee in Portugal.** *Uma bica* (<Lat>OO-muh BEE-kuh</Lat> - an espresso) is the classic Lisbon word for a short espresso served in a hot cup. *Tomar um café* (<Lat>too-MAHR oong kuh-FEH</Lat> - to have a coffee) is the set phrase.
+**Coffee in Portugal.** *Uma bica* (<Lat>[ˈumɐ ˈbikɐ]</Lat> - an espresso) is the classic Lisbon word for a short espresso served in a hot cup. *Tomar um café* (<Lat>[tuˈmaɾ ũ kɐˈfɛ]</Lat> - to have a coffee) is the set phrase.
 
-**Why and because.** *Porquê?* (<Lat>poor-KAY?</Lat> - why?) is stressed and comes at the end or on its own. *Porque* (<Lat>POOR-kuh</Lat> - because) is unstressed: *Porque gosto de bica.* (<Lat>POOR-kuh GAWSH-too duh BEE-kuh.</Lat> - Because I like espresso.), *Porque não tenho dinheiro.* (<Lat>POOR-kuh nowng TUH-nyoo dee-NYAY-roo.</Lat> - Because I have no money.)
+**Why and because.** *Porquê?* (<Lat>[puɾˈke]</Lat> - why?) is stressed and comes at the end or on its own. *Porque* (<Lat>[ˈpuɾkɨ]</Lat> - because) is unstressed: *Porque gosto de bica.* (<Lat>[ˈpuɾkɨ ˈɡɔʃtu dɨ ˈbikɐ]</Lat> - Because I like espresso.), *Porque não tenho dinheiro.* (<Lat>[ˈpuɾkɨ nɐ̃w̃ ˈtɐɲu diˈɲɐjɾu]</Lat> - Because I have no money.)
 
-**Talking about the language.** *Como é que se diz...?* (<Lat>KOH-moo eh kuh suh deesh...?</Lat> - How do you say...?)
+**Talking about the language.** *Como é que se diz...?* (<Lat>[ˈkomu ɛ kɨ sɨ diʃ]</Lat> - How do you say...?)
 
-**You're welcome.** *De nada.* (<Lat>duh NAH-duh.</Lat> - You're welcome.)
+**You're welcome.** *De nada.* (<Lat>[dɨ ˈnadɐ]</Lat> - You're welcome.)
 
-**So, then.** *Então* (<Lat>ayng-TOWNG</Lat> - so, then) to draw a conclusion.
+**So, then.** *Então* (<Lat>[ẽˈtɐ̃w̃]</Lat> - so, then) to draw a conclusion.
 
-**Numbers.** *dez* (<Lat>dehsh</Lat> - ten), *onze* (<Lat>OHN-zuh</Lat> - eleven).
+**Numbers.** *dez* (<Lat>[dɛʃ]</Lat> - ten), *onze* (<Lat>[ˈõzɨ]</Lat> - eleven).
 
 ## Vocabulary
 
-| Portuguese | Pronunciation | English |
+| Portuguese | IPA | English |
 |:--|:--|:--|
-| aonde é que vai? | uh-OHN-duh eh kuh vy? | where are you going? |
-| vou ao café | voh ow kuh-FEH | I'm going to the café |
-| tomar um café | too-MAHR oong kuh-FEH | to have a coffee |
-| então | ayng-TOWNG | so, then |
-| custam | KOOSH-towng | they cost |
-| gostar de | goosh-TAHR duh | to like |
-| gosto de | GAWSH-too duh | I like |
-| a bica | uh BEE-kuh | espresso (Lisbon) |
-| porquê? | poor-KAY? | why? |
-| porque | POOR-kuh | because |
-| como é que se diz...? | KOH-moo eh kuh suh deesh...? | how do you say...? |
-| de nada | duh NAH-duh | you're welcome |
-| dez, onze | dehsh, OHN-zuh | ten, eleven |
+| aonde é que vai? | [ɐˈõdɨ ɛ kɨ vaj] | where are you going? |
+| vou ao café | [vo aw kɐˈfɛ] | I'm going to the café |
+| tomar um café | [tuˈmaɾ ũ kɐˈfɛ] | to have a coffee |
+| então | [ẽˈtɐ̃w̃] | so, then |
+| custam | [ˈkuʃtɐ̃w̃] | they cost |
+| gostar de | [ɡuʃˈtaɾ dɨ] | to like |
+| gosto de | [ˈɡɔʃtu dɨ] | I like |
+| a bica | [ɐ ˈbikɐ] | espresso (Lisbon) |
+| porquê? | [puɾˈke] | why? |
+| porque | [ˈpuɾkɨ] | because |
+| como é que se diz...? | [ˈkomu ɛ kɨ sɨ diʃ] | how do you say...? |
+| de nada | [dɨ ˈnadɐ] | you're welcome |
+| dez, onze | [dɛʃ] [ˈõzɨ] | ten, eleven |
 
 ## Exercises
 
@@ -72,22 +72,22 @@ João meets Maria in the morning and invites her for a coffee.
 
 ## Informal version
 
-| Who | Portuguese | Pronunciation | English |
+| Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| João | Olá, Maria! Tudo bem? | aw-LAH, muh-REE-uh! TOO-doo bayng? | Hi, Maria! All good? |
-| Maria | Tudo bem, e contigo? Para onde é que vais? | TOO-doo bayng, ee kong-TEE-goo? PUH-ruh OHN-duh eh kuh vysh? | All good, and you? Where are you off to? |
-| João | Vou ali ao café. Alinhas? | voh uh-LEE ow kuh-FEH. uh-LEE-nyush? | I'm heading to the café. Are you in? |
-| Maria | Não sei bem o que vou fazer... | nowng say bayng oo kuh voh fuh-ZAYR... | I'm not really sure what I'm going to do... |
-| João | Anda daí beber uma bica, anda. | UHN-duh duh-EE buh-BAYR OO-muh BEE-kuh, UHN-duh. | Come on, come and have an espresso. |
-| Maria | Olha, calha mesmo bem, apetece-me mesmo uma bica. | AW-lyuh, KAH-lyuh MAYZH-moo bayng, uh-puh-TEH-suh-muh MAYZH-moo OO-muh BEE-kuh. | You know what, that's perfect, I really fancy an espresso. |
-| João | Então venha de lá esse café e a gente aproveita para petiscar qualquer coisa. | ayng-TOWNG VUH-nyuh duh lah AY-suh kuh-FEH ee uh ZHAYN-tuh uh-proo-VAY-tuh PUH-ruh puh-tish-KAHR kwahl-KEHR KOY-zuh. | Then bring on that coffee, and we'll grab a little something to nibble too. |
+| João | Olá, Maria! Tudo bem? | [ɔˈla | mɐˈɾiɐ ‖ ˈtudu bɐ̃j̃] | Hi, Maria! All good? |
+| Maria | Tudo bem, e contigo? Para onde é que vais? | [ˈtudu bɐ̃j̃ | i kõˈtiɡu ‖ ˈpɐɾɐ ˈõdɨ ɛ kɨ vajʃ] | All good, and you? Where are you off to? |
+| João | Vou ali ao café. Alinhas? | [vo ɐˈli aw kɐˈfɛ ‖ ɐˈliɲɐʃ] | I'm heading to the café. Are you in? |
+| Maria | Não sei bem o que vou fazer... | [nɐ̃w̃ sɐj bɐ̃j̃ u kɨ vo fɐˈzeɾ] | I'm not really sure what I'm going to do... |
+| João | Anda daí beber uma bica, anda. | [ˈɐ̃dɐ dɐˈi bɨˈbeɾ ˈumɐ ˈbikɐ | ˈɐ̃dɐ] | Come on, come and have an espresso. |
+| Maria | Olha, calha mesmo bem, apetece-me mesmo uma bica. | [ˈɔʎɐ | ˈkaʎɐ ˈmeʒmu bɐ̃j̃ | ɐpɨˈtɛsɨmɨ ˈmeʒmu ˈumɐ ˈbikɐ] | You know what, that's perfect, I really fancy an espresso. |
+| João | Então venha de lá esse café e a gente aproveita para petiscar qualquer coisa. | [ẽˈtɐ̃w̃ ˈvɐɲɐ dɨ la ˈesɨ kɐˈfɛ i ɐ ˈʒẽtɨ ɐpɾuˈvɐjtɐ ˈpɐɾɐ pɨtiʃˈkaɾ kwaɫˈkɛɾ ˈkojzɐ] | Then bring on that coffee, and we'll grab a little something to nibble too. |
 
-**Ordering coffee.** All over Portugal *um café* (<Lat>oong kuh-FEH</Lat> - a coffee) means an espresso by default. Lisbon says *uma bica*; in Porto you may hear *um cimbalino* (<Lat>oong seeng-buh-LEE-noo</Lat> - an espresso, in the north). At the counter the natural order is *Era um café, se faz favor!* (<Lat>EH-ruh oong kuh-FEH, suh fahsh fuh-VOHR!</Lat> - I'll have a coffee, please!). The past tense *era* (<Lat>EH-ruh</Lat> - literally "it was") makes the request soft and polite, and is more common than a direct *quero um café*.
+**Ordering coffee.** All over Portugal *um café* (<Lat>[ũ kɐˈfɛ]</Lat> - a coffee) means an espresso by default. Lisbon says *uma bica*; in Porto you may hear *um cimbalino* (<Lat>[ũ sĩbɐˈlinu]</Lat> - an espresso, in the north). At the counter the natural order is *Era um café, se faz favor!* (<Lat>[ˈɛɾɐ ũ kɐˈfɛ | sɨ faʃ fɐˈvoɾ]</Lat> - I'll have a coffee, please!). The past tense *era* (<Lat>[ˈɛɾɐ]</Lat> - literally "it was") makes the request soft and polite, and is more common than a direct *quero um café*.
 
-**Tomar or beber.** *Vamos tomar um café* and *vamos beber um café* (<Lat>VUH-moosh buh-BAYR oong kuh-FEH</Lat> - let's have a coffee) are interchangeable. Inviting someone for coffee is almost a social ritual: *Bora ali tomar um café?* (<Lat>BAW-ruh uh-LEE too-MAHR oong kuh-FEH?</Lat> - fancy a coffee?).
+**Tomar or beber.** *Vamos tomar um café* and *vamos beber um café* (<Lat>[ˈvɐmuʒ bɨˈbeɾ ũ kɐˈfɛ]</Lat> - let's have a coffee) are interchangeable. Inviting someone for coffee is almost a social ritual: *Bora ali tomar um café?* (<Lat>[ˈbɔɾɐ ɐˈli tuˈmaɾ ũ kɐˈfɛ]</Lat> - fancy a coffee?).
 
-**Answer with the verb.** Yes-answers repeat the verb of the question: *Queres um café?* (<Lat>KEH-ruz oong kuh-FEH?</Lat> - do you want a coffee?) → *Quero, obrigado.* (<Lat>KEH-roo, oh-bree-GAH-doo.</Lat> - yes, thanks.); *Tens tempo?* (<Lat>tayngsh TAYNG-poo?</Lat> - have you got time?) → *Tenho.* (<Lat>TUH-nyoo.</Lat> - I have.). A bare *sim* often sounds short or curt.
+**Answer with the verb.** Yes-answers repeat the verb of the question: *Queres um café?* (<Lat>[ˈkɛɾɨz ũ kɐˈfɛ]</Lat> - do you want a coffee?) → *Quero, obrigado.* (<Lat>[ˈkɛɾu | ɔbɾiˈɡadu]</Lat> - yes, thanks.); *Tens tempo?* (<Lat>[tɐ̃j̃ʃ ˈtẽpu]</Lat> - have you got time?) → *Tenho.* (<Lat>[ˈtɐɲu]</Lat> - I have.). A bare *sim* often sounds short or curt.
 
-**Porque in fast speech.** *Porque* shrinks to something like *poork*, while *porquê?* keeps its open, stressed final syllable.
+**Porque in fast speech.** *Porque* often loses its last vowel and shrinks to <Lat>[ˈpuɾk]</Lat>, while *porquê?* keeps its stressed final [e].
 
-**Slang.** *Alinhas?* (<Lat>uh-LEE-nyush?</Lat> - are you in?, from *alinhar*, "to line up"); *calha bem* (<Lat>KAH-lyuh bayng</Lat> - it suits me, good timing); *a gente* (<Lat>uh ZHAYN-tuh</Lat> - we, us; literally "the people"); *petiscar* (<Lat>puh-tish-KAHR</Lat> - to nibble, to have *petiscos*, Portuguese small plates).
+**Slang.** *Alinhas?* (<Lat>[ɐˈliɲɐʃ]</Lat> - are you in?, from *alinhar*, "to line up"); *calha bem* (<Lat>[ˈkaʎɐ bɐ̃j̃]</Lat> - it suits me, good timing); *a gente* (<Lat>[ɐ ˈʒẽtɨ]</Lat> - we, us; literally "the people"); *petiscar* (<Lat>[pɨtiʃˈkaɾ]</Lat> - to nibble, to have *petiscos*, Portuguese small plates).

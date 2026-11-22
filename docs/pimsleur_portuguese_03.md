@@ -8,40 +8,40 @@ unidade: 3
 
 A woman greets the American man and compliments his Portuguese.
 
-| Who | Portuguese | Pronunciation | English |
+| Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| Woman | Bom dia! | bong DEE-uh! | Good morning! |
-| Man | Bom dia. | bong DEE-uh. | Good morning. |
-| Woman | Como está? Está bem? | KOH-moo ish-TAH? ish-TAH bayng? | How are you? Are you well? |
-| Man | Não muito bem. Eu não percebo português. | nowng MOOYNG-too bayng. EH-oo nowng pur-SAY-boo poor-too-GAYSH. | Not very well. I don't understand Portuguese. |
-| Woman | O senhor percebe... percebe bem. O senhor fala muito bem! | oo suh-NYOHR pur-SEH-buh... pur-SEH-buh bayng. oo suh-NYOHR FAH-luh MOOYNG-too bayng! | You understand... you understand well. You speak very well! |
-| Man | Obrigado, minha senhora. | oh-bree-GAH-doo, MEE-nyuh suh-NYAW-ruh. | Thank you, madam. |
+| Woman | Bom dia! | [bõ ˈdiɐ] | Good morning! |
+| Man | Bom dia. | [bõ ˈdiɐ] | Good morning. |
+| Woman | Como está? Está bem? | [ˈkomu ɨʃˈta ‖ ɨʃˈta bɐ̃j̃] | How are you? Are you well? |
+| Man | Não muito bem. Eu não percebo português. | [nɐ̃w̃ ˈmũj̃tu bɐ̃j̃ ‖ ew nɐ̃w̃ pɨɾˈsebu puɾtuˈɡeʃ] | Not very well. I don't understand Portuguese. |
+| Woman | O senhor percebe... percebe bem. O senhor fala muito bem! | [u sɨˈɲoɾ pɨɾˈsɛbɨ | pɨɾˈsɛbɨ bɐ̃j̃ ‖ u sɨˈɲoɾ ˈfalɐ ˈmũj̃tu bɐ̃j̃] | You understand... you understand well. You speak very well! |
+| Man | Obrigado, minha senhora. | [ɔbɾiˈɡadu | ˈmiɲɐ sɨˈɲɔɾɐ] | Thank you, madam. |
 
 ## Concepts
 
-**Object pronouns: after or before the verb.** *Me* (<Lat>muh</Lat> - me), *o* (<Lat>oo</Lat> - him, you to a man) and *a* (<Lat>uh</Lat> - her, you to a woman) come after the verb, with a hyphen, in a plain statement or question: *A senhora percebe-me?* (<Lat>uh suh-NYAW-ruh pur-SEH-buh-muh?</Lat> - Do you understand me?), *Eu percebo-a.* (<Lat>EH-oo pur-SAY-boo-uh.</Lat> - I understand you, to a woman), *Eu percebo-o.* (<Lat>EH-oo pur-SAY-boo-oo.</Lat> - I understand you, to a man). A negative word pulls the pronoun in front of the verb: *Eu não a percebo.* (<Lat>EH-oo nowng uh pur-SAY-boo.</Lat> - I don't understand you, to a woman), *Eu não o percebo.* (<Lat>EH-oo nowng oo pur-SAY-boo.</Lat> - I don't understand you, to a man).
+**Object pronouns: after or before the verb.** *Me* (<Lat>[mɨ]</Lat> - me), *o* (<Lat>[u]</Lat> - him, you to a man) and *a* (<Lat>[ɐ]</Lat> - her, you to a woman) come after the verb, with a hyphen, in a plain statement or question: *A senhora percebe-me?* (<Lat>[ɐ sɨˈɲɔɾɐ pɨɾˈsɛbɨmɨ]</Lat> - Do you understand me?), *Eu percebo-a.* (<Lat>[ew pɨɾˈsebuɐ]</Lat> - I understand you, to a woman), *Eu percebo-o.* (<Lat>[ew pɨɾˈsebuu]</Lat> - I understand you, to a man). A negative word pulls the pronoun in front of the verb: *Eu não a percebo.* (<Lat>[ew nɐ̃w̃ ɐ pɨɾˈsebu]</Lat> - I don't understand you, to a woman), *Eu não o percebo.* (<Lat>[ew nɐ̃w̃ u pɨɾˈsebu]</Lat> - I don't understand you, to a man).
 
-**Greetings through the day.** *Bom dia* (<Lat>bong DEE-uh</Lat> - good morning), *boa tarde* (<Lat>BOH-uh TAHR-duh</Lat> - good afternoon), *boa noite* (<Lat>BOH-uh NOY-tuh</Lat> - good evening, good night). *Boa noite* is used both on arrival and on leaving after dark.
+**Greetings through the day.** *Bom dia* (<Lat>[bõ ˈdiɐ]</Lat> - good morning), *boa tarde* (<Lat>[ˈboɐ ˈtaɾdɨ]</Lat> - good afternoon), *boa noite* (<Lat>[ˈboɐ ˈnojtɨ]</Lat> - good evening, good night). *Boa noite* is used both on arrival and on leaving after dark.
 
-**Where you are from.** *Ser de* (<Lat>sayr duh</Lat> - to be from). With cities and with most country names there is no article: *Eu sou de Portugal.* (<Lat>EH-oo soh duh poor-too-GAHL.</Lat> - I'm from Portugal.), *Eu sou de Los Angeles.* (<Lat>EH-oo soh duh Los Angeles.</Lat> - I'm from Los Angeles.) Some countries take an article, which merges with *de*: *de* + *os* = *dos*: *Eu sou dos Estados Unidos.* (<Lat>EH-oo soh dooz ish-TAH-dooz oo-NEE-doosh.</Lat> - I'm from the United States.)
+**Where you are from.** *Ser de* (<Lat>[seɾ dɨ]</Lat> - to be from). With cities and with most country names there is no article: *Eu sou de Portugal.* (<Lat>[ew so dɨ puɾtuˈɡaɫ]</Lat> - I'm from Portugal.), *Eu sou de Los Angeles.* (<Lat>[ew so dɨ luʒ ˈɐ̃ʒɨlɨʃ]</Lat> - I'm from Los Angeles.) Some countries take an article, which merges with *de*: *de* + *os* = *dos*: *Eu sou dos Estados Unidos.* (<Lat>[ew so duz ɨʃˈtaduz uˈniduʃ]</Lat> - I'm from the United States.)
 
-**Você.** The course introduces *você* (<Lat>voh-SAY</Lat> - you) as another third-person "you". Read the informal note below before using it in Portugal.
+**Você.** The course introduces *você* (<Lat>[vɔˈse]</Lat> - you) as another third-person "you". Read the informal note below before using it in Portugal.
 
 ## Vocabulary
 
-| Portuguese | Pronunciation | English |
+| Portuguese | IPA | English |
 |:--|:--|:--|
-| está bem? | ish-TAH bayng? | are you well? |
-| não muito bem | nowng MOOYNG-too bayng | not very well |
-| percebe-me? | pur-SEH-buh-muh? | do you understand me? |
-| percebo-o / percebo-a | pur-SAY-boo-oo / pur-SAY-boo-uh | I understand you (man / woman) |
-| não o percebo / não a percebo | nowng oo pur-SAY-boo / nowng uh pur-SAY-boo | I don't understand you (man / woman) |
-| boa tarde | BOH-uh TAHR-duh | good afternoon |
-| boa noite | BOH-uh NOY-tuh | good evening, good night |
-| de | duh | from, of |
-| Portugal | poor-too-GAHL | Portugal |
-| os Estados Unidos | ooz ish-TAH-dooz oo-NEE-doosh | the United States |
-| você | voh-SAY | you |
+| está bem? | [ɨʃˈta bɐ̃j̃] | are you well? |
+| não muito bem | [nɐ̃w̃ ˈmũj̃tu bɐ̃j̃] | not very well |
+| percebe-me? | [pɨɾˈsɛbɨmɨ] | do you understand me? |
+| percebo-o / percebo-a | [pɨɾˈsebuu] / [pɨɾˈsebuɐ] | I understand you (man / woman) |
+| não o percebo / não a percebo | [nɐ̃w̃ u pɨɾˈsebu] / [nɐ̃w̃ ɐ pɨɾˈsebu] | I don't understand you (man / woman) |
+| boa tarde | [ˈboɐ ˈtaɾdɨ] | good afternoon |
+| boa noite | [ˈboɐ ˈnojtɨ] | good evening, good night |
+| de | [dɨ] | from, of |
+| Portugal | [puɾtuˈɡaɫ] | Portugal |
+| os Estados Unidos | [uz ɨʃˈtaduz uˈniduʃ] | the United States |
+| você | [vɔˈse] | you |
 
 ## Exercises
 
@@ -61,22 +61,22 @@ A woman greets the American man and compliments his Portuguese.
 
 ## Informal version
 
-Two acquaintances, using *tu* (<Lat>too</Lat> - you, informal).
+Two acquaintances, using *tu* (<Lat>[tu]</Lat> - you, informal).
 
-| Who | Portuguese | Pronunciation | English |
+| Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| Woman | Bom dia! Então, tudo bem? | bong DEE-uh! ayng-TOWNG, TOO-doo bayng? | Morning! So, all good? |
-| Man | Mais ou menos. Não estou a perceber nada de português. | myz oh MAY-noosh. nowng ish-TOH uh pur-suh-BAYR NAH-duh duh poor-too-GAYSH. | So-so. I'm not understanding any Portuguese at all. |
-| Woman | Ouve lá, percebes... percebes perfeitamente. Até falas muito bem! | OH-vuh lah, pur-SEH-bush... pur-SEH-bush pur-fay-tuh-MAYN-tuh. uh-TEH FAH-lush MOOYNG-too bayng! | Come on, you understand... you understand perfectly. You even speak very well! |
-| Man | Obrigado, és muito simpática. | oh-bree-GAH-doo, ehsh MOOYNG-too seeng-PAH-tee-kuh. | Thanks, you're very kind. |
+| Woman | Bom dia! Então, tudo bem? | [bõ ˈdiɐ ‖ ẽˈtɐ̃w̃ | ˈtudu bɐ̃j̃] | Morning! So, all good? |
+| Man | Mais ou menos. Não estou a perceber nada de português. | [majz o ˈmenuʃ ‖ nɐ̃w̃ ɨʃˈto ɐ pɨɾsɨˈbeɾ ˈnadɐ dɨ puɾtuˈɡeʃ] | So-so. I'm not understanding any Portuguese at all. |
+| Woman | Ouve lá, percebes... percebes perfeitamente. Até falas muito bem! | [ˈovɨ la | pɨɾˈsɛbɨʃ | pɨɾˈsɛbɨʃ pɨɾfɐjtɐˈmẽtɨ ‖ ɐˈtɛ ˈfalɐʒ ˈmũj̃tu bɐ̃j̃] | Come on, you understand... you understand perfectly. You even speak very well! |
+| Man | Obrigado, és muito simpática. | [ɔbɾiˈɡadu | ɛʒ ˈmũj̃tu sĩˈpatikɐ] | Thanks, you're very kind. |
 
 **Careful with *você*.** Saying the word *você* out loud to someone in Portugal can sound cold, condescending or even rude. People avoid the word itself:
 
-- they drop it and keep only the verb: *Fala inglês?* (<Lat>FAH-luh eeng-GLAYSH?</Lat> - Do you speak English?) instead of *Você fala inglês?*;
-- they use the person's name with the article: *O John fala inglês?* (<Lat>oo John FAH-luh eeng-GLAYSH?</Lat> - Does John speak English?, meaning "do you");
+- they drop it and keep only the verb: *Fala inglês?* (<Lat>[ˈfalɐ ĩˈɡleʃ]</Lat> - Do you speak English?) instead of *Você fala inglês?*;
+- they use the person's name with the article: *O John fala inglês?* (<Lat>[u dʒɔn ˈfalɐ ĩˈɡleʃ]</Lat> - Does John speak English?, meaning "do you");
 - they use *o senhor* / *a senhora*;
-- with friends, family and people of similar age they switch to *tu*: *Falas inglês?* (<Lat>FAH-lush eeng-GLAYSH?</Lat> - Do you speak English?), *Percebes-me?* (<Lat>pur-SEH-bush-muh?</Lat> - Do you understand me?).
+- with friends, family and people of similar age they switch to *tu*: *Falas inglês?* (<Lat>[ˈfalɐz ĩˈɡleʃ]</Lat> - Do you speak English?), *Percebes-me?* (<Lat>[pɨɾˈsɛbɨʒmɨ]</Lat> - Do you understand me?).
 
-**Not getting it.** In conversation it is more natural to say *Não estou a perceber.* (<Lat>nowng ish-TOH uh pur-suh-BAYR.</Lat> - I'm not understanding.) Portugal uses *estar a* + infinitive for "-ing". Also: *Desculpe, não apanhei.* (<Lat>dush-KOOL-puh, nowng uh-puh-NYAY.</Lat> - Sorry, I didn't catch that.)
+**Not getting it.** In conversation it is more natural to say *Não estou a perceber.* (<Lat>[nɐ̃w̃ ɨʃˈto ɐ pɨɾsɨˈbeɾ]</Lat> - I'm not understanding.) Portugal uses *estar a* + infinitive for "-ing". Also: *Desculpe, não apanhei.* (<Lat>[dɨʃˈkuɫpɨ | nɐ̃w̃ ɐpɐˈɲɐj]</Lat> - Sorry, I didn't catch that.)
 
-**Está bem?** In daily speech *está bem* almost always means "OK, agreed". To ask how someone is, say *Está tudo bem?* (<Lat>ish-TAH TOO-doo bayng?</Lat> - Is everything all right?) or *Então, estás bom?* (<Lat>ayng-TOWNG, ish-TAHSH bong?</Lat> - So, are you well?, to a man).
+**Está bem?** In daily speech *está bem* almost always means "OK, agreed". To ask how someone is, say *Está tudo bem?* (<Lat>[ɨʃˈta ˈtudu bɐ̃j̃]</Lat> - Is everything all right?) or *Então, estás bom?* (<Lat>[ẽˈtɐ̃w̃ | ɨʃˈtaʒ bõ]</Lat> - So, are you well?, to a man).

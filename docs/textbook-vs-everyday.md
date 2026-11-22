@@ -24,6 +24,6 @@ The Pimsleur course deliberately uses a very formal, teaching register: *o senho
 
 **Avoid saying *você*.** Leave it out and keep the verb, use the person's name with the article, use *o senhor* / *a senhora*, or switch to *tu* with friends. See [Lesson 03](./pimsleur_portuguese_03.md).
 
-**Leave out *eu*.** The verb ending already says who is speaking. Use *eu* only for contrast: *Eu pago!* (<Lat>EH-oo PAH-goo!</Lat> - I'll pay!, not you).
+**Leave out *eu*.** The verb ending already says who is speaking. Use *eu* only for contrast: *Eu pago!* (<Lat>[ew ˈpaɡu]</Lat> - I'll pay!, not you).
 
-**Answer with the verb.** *Tens tempo?* → *Tenho.* (<Lat>TUH-nyoo.</Lat> - I have.) sounds more natural than a bare *sim*.
+**Answer with the verb.** *Tens tempo?* → *Tenho.* (<Lat>[ˈtɐɲu]</Lat> - I have.) sounds more natural than a bare *sim*.

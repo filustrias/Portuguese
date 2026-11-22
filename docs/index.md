@@ -16,7 +16,7 @@ hero:
 features:
   - icon: Aa
     title: Pronunciation guide
-    details: How the respelling in the Pronunciation column works, and the sounds of Lisbon Portuguese.
+    details: How to read the IPA transcriptions, and the sounds of Lisbon Portuguese.
     link: /pronunciation
     linkText: Open
   - icon: "01–10"

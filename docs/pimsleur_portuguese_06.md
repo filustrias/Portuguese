@@ -8,64 +8,64 @@ unidade: 6
 
 Maria meets her friend João and asks him for some money.
 
-| Who | Portuguese | Pronunciation | English |
+| Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| Maria | Olá, João. | aw-LAH, zhoo-OWNG. | Hi, João. |
-| João | Ah, boa tarde, Maria. Como é que você está? | ah, BOH-uh TAHR-duh, muh-REE-uh. KOH-moo eh kuh voh-SAY ish-TAH? | Oh, good afternoon, Maria. How are you? |
-| Maria | Não estou muito bem, João. Se faz favor, você tem alguns euros? | nowng ish-TOH MOOYNG-too bayng, zhoo-OWNG. suh fahsh fuh-VOHR, voh-SAY tayng ahl-GOONGZ EH-oo-roosh? | I'm not very well, João. Please, do you have a few euros? |
-| João | Não, eu não tenho. | nowng, EH-oo nowng TUH-nyoo. | No, I don't. |
-| Maria | Mas você tem dólares? | mush voh-SAY tayng DAW-luh-rush? | But do you have dollars? |
-| João | Eu não tenho dólares. | EH-oo nowng TUH-nyoo DAW-luh-rush. | I don't have dollars. |
-| Maria | Você é americano, não é? | voh-SAY eh uh-muh-ree-KUH-noo, nowng eh? | You're American, aren't you? |
-| João | Eu sou americano, mas não tenho dólares. | EH-oo soh uh-muh-ree-KUH-noo, mush nowng TUH-nyoo DAW-luh-rush. | I'm American, but I don't have dollars. |
-| Maria | Bem, obrigada, João. | bayng, oh-bree-GAH-duh, zhoo-OWNG. | Well, thanks, João. |
+| Maria | Olá, João. | [ɔˈla | ʒuˈɐ̃w̃] | Hi, João. |
+| João | Ah, boa tarde, Maria. Como é que você está? | [a | ˈboɐ ˈtaɾdɨ | mɐˈɾiɐ ‖ ˈkomu ɛ kɨ vɔˈse ɨʃˈta] | Oh, good afternoon, Maria. How are you? |
+| Maria | Não estou muito bem, João. Se faz favor, você tem alguns euros? | [nɐ̃w̃ ɨʃˈto ˈmũj̃tu bɐ̃j̃ | ʒuˈɐ̃w̃ ‖ sɨ faʃ fɐˈvoɾ | vɔˈse tɐ̃j̃ aɫˈɡũz ˈewɾuʃ] | I'm not very well, João. Please, do you have a few euros? |
+| João | Não, eu não tenho. | [nɐ̃w̃ | ew nɐ̃w̃ ˈtɐɲu] | No, I don't. |
+| Maria | Mas você tem dólares? | [mɐʒ vɔˈse tɐ̃j̃ ˈdɔlɐɾɨʃ] | But do you have dollars? |
+| João | Eu não tenho dólares. | [ew nɐ̃w̃ ˈtɐɲu ˈdɔlɐɾɨʃ] | I don't have dollars. |
+| Maria | Você é americano, não é? | [vɔˈse ɛ ɐmɨɾiˈkɐnu | nɐ̃w̃ ɛ] | You're American, aren't you? |
+| João | Eu sou americano, mas não tenho dólares. | [ew so ɐmɨɾiˈkɐnu | mɐʒ nɐ̃w̃ ˈtɐɲu ˈdɔlɐɾɨʃ] | I'm American, but I don't have dollars. |
+| Maria | Bem, obrigada, João. | [bɐ̃j̃ | ɔbɾiˈɡadɐ | ʒuˈɐ̃w̃] | Well, thanks, João. |
 
 ## Concepts
 
-**Estar for how you feel.** *Estou* (<Lat>ish-TOH</Lat> - I am) comes from *estar*, the "be" of temporary states: *Não estou muito bem.* (<Lat>nowng ish-TOH MOOYNG-too bayng.</Lat> - I'm not very well.)
+**Estar for how you feel.** *Estou* (<Lat>[ɨʃˈto]</Lat> - I am) comes from *estar*, the "be" of temporary states: *Não estou muito bem.* (<Lat>[nɐ̃w̃ ɨʃˈto ˈmũj̃tu bɐ̃j̃]</Lat> - I'm not very well.)
 
-**Tag question.** *Não é?* (<Lat>nowng eh?</Lat> - isn't it?, aren't you?) at the end of a sentence asks for confirmation: *Você é americano, não é?* (<Lat>voh-SAY eh uh-muh-ree-KUH-noo, nowng eh?</Lat> - You're American, aren't you?)
+**Tag question.** *Não é?* (<Lat>[nɐ̃w̃ ɛ]</Lat> - isn't it?, aren't you?) at the end of a sentence asks for confirmation: *Você é americano, não é?* (<Lat>[vɔˈse ɛ ɐmɨɾiˈkɐnu | nɐ̃w̃ ɛ]</Lat> - You're American, aren't you?)
 
-**To want.** *Eu quero* (<Lat>EH-oo KEH-roo</Lat> - I want), *Você quer?* (<Lat>voh-SAY kehr?</Lat> - Do you want?), *O senhor quer?* (<Lat>oo suh-NYOHR kehr?</Lat> - Do you want?, formal).
+**To want.** *Eu quero* (<Lat>[ew ˈkɛɾu]</Lat> - I want), *Você quer?* (<Lat>[vɔˈse kɛɾ]</Lat> - Do you want?), *O senhor quer?* (<Lat>[u sɨˈɲoɾ kɛɾ]</Lat> - Do you want?, formal).
 
-**How many.** *Quantos euros é que tem?* (<Lat>KWUHN-tooz EH-oo-roosh eh kuh tayng?</Lat> - How many euros do you have?), *Quantos dólares é que quer?* (<Lat>KWUHN-toozh DAW-luh-rush eh kuh kehr?</Lat> - How many dollars do you want?)
+**How many.** *Quantos euros é que tem?* (<Lat>[ˈkwɐ̃tuz ˈewɾuz ɛ kɨ tɐ̃j̃]</Lat> - How many euros do you have?), *Quantos dólares é que quer?* (<Lat>[ˈkwɐ̃tuʒ ˈdɔlɐɾɨz ɛ kɨ kɛɾ]</Lat> - How many dollars do you want?)
 
-**Numbers and amounts.** *um* (<Lat>oong</Lat> - one), *dois* (<Lat>doysh</Lat> - two), *três* (<Lat>traysh</Lat> - three); *muito pouco* (<Lat>MOOYNG-too POH-koo</Lat> - very little), *muitos euros* (<Lat>MOOYNG-tooz EH-oo-roosh</Lat> - many euros).
+**Numbers and amounts.** *um* (<Lat>[ũ]</Lat> - one), *dois* (<Lat>[dojʃ]</Lat> - two), *três* (<Lat>[tɾeʃ]</Lat> - three); *muito pouco* (<Lat>[ˈmũj̃tu ˈpoku]</Lat> - very little), *muitos euros* (<Lat>[ˈmũj̃tuz ˈewɾuʃ]</Lat> - many euros).
 
-**In + the.** *Em* (<Lat>ayng</Lat> - in) merges with the article:
+**In + the.** *Em* (<Lat>[ɐ̃j̃]</Lat> - in) merges with the article:
 
-| Portuguese | Pronunciation | English |
+| Portuguese | IPA | English |
 |:--|:--|:--|
-| em + a = na | nuh | in the (feminine) |
-| na sua carteira | nuh SOO-uh kur-TAY-ruh | in your wallet |
-| na minha mala | nuh MEE-nyuh MAH-luh | in my bag |
-| em + o = no | noo | in the (masculine) |
-| no hotel | noo aw-TEHL | in the hotel |
-| no restaurante | noo rrush-tow-RUHN-tuh | in the restaurant |
+| em + a = na | [nɐ] | in the (feminine) |
+| na sua carteira | [nɐ ˈsuɐ kɐɾˈtɐjɾɐ] | in your wallet |
+| na minha mala | [nɐ ˈmiɲɐ ˈmalɐ] | in my bag |
+| em + o = no | [nu] | in the (masculine) |
+| no hotel | [nu ɔˈtɛɫ] | in the hotel |
+| no restaurante | [nu ʁɨʃtawˈɾɐ̃tɨ] | in the restaurant |
 
-**Kind.** *Simpático* / *simpática* (<Lat>seeng-PAH-tee-koo / seeng-PAH-tee-kuh</Lat> - nice, kind): *A senhora é muito simpática.* (<Lat>uh suh-NYAW-ruh eh MOOYNG-too seeng-PAH-tee-kuh.</Lat> - You are very kind.)
+**Kind.** *Simpático* / *simpática* (<Lat>[sĩˈpatiku] / [sĩˈpatikɐ]</Lat> - nice, kind): *A senhora é muito simpática.* (<Lat>[ɐ sɨˈɲɔɾɐ ɛ ˈmũj̃tu sĩˈpatikɐ]</Lat> - You are very kind.)
 
-**Pardon?** *Como?* (<Lat>KOH-moo?</Lat> - pardon?, sorry?) asks someone to repeat.
+**Pardon?** *Como?* (<Lat>[ˈkomu]</Lat> - pardon?, sorry?) asks someone to repeat.
 
 ## Vocabulary
 
-| Portuguese | Pronunciation | English |
+| Portuguese | IPA | English |
 |:--|:--|:--|
-| olá | aw-LAH | hello, hi |
-| estou | ish-TOH | I am (state) |
-| não é? | nowng eh? | isn't it?, right? |
-| querer | kuh-RAYR | to want |
-| quero / quer | KEH-roo / kehr | I want / you want |
-| quantos? | KWUHN-toosh? | how many? |
-| um, dois, três | oong, doysh, traysh | one, two, three |
-| muito pouco | MOOYNG-too POH-koo | very little |
-| muitos | MOOYNG-toosh | many |
-| em | ayng | in |
-| na / no | nuh / noo | in the |
-| a carteira | uh kur-TAY-ruh | the wallet |
-| sua | SOO-uh | your (feminine noun) |
-| simpático / simpática | seeng-PAH-tee-koo / seeng-PAH-tee-kuh | nice, kind |
-| como? | KOH-moo? | pardon? |
+| olá | [ɔˈla] | hello, hi |
+| estou | [ɨʃˈto] | I am (state) |
+| não é? | [nɐ̃w̃ ɛ] | isn't it?, right? |
+| querer | [kɨˈɾeɾ] | to want |
+| quero / quer | [ˈkɛɾu] / [kɛɾ] | I want / you want |
+| quantos? | [ˈkwɐ̃tuʃ] | how many? |
+| um, dois, três | [ũ] [dojʃ] [tɾeʃ] | one, two, three |
+| muito pouco | [ˈmũj̃tu ˈpoku] | very little |
+| muitos | [ˈmũj̃tuʃ] | many |
+| em | [ɐ̃j̃] | in |
+| na / no | [nɐ] / [nu] | in the |
+| a carteira | [ɐ kɐɾˈtɐjɾɐ] | the wallet |
+| sua | [ˈsuɐ] | your (feminine noun) |
+| simpático / simpática | [sĩˈpatiku] / [sĩˈpatikɐ] | nice, kind |
+| como? | [ˈkomu] | pardon? |
 
 ## Exercises
 
@@ -87,22 +87,22 @@ Maria meets her friend João and asks him for some money.
 
 Friends who call each other by their first names use *tu*.
 
-| Who | Portuguese | Pronunciation | English |
+| Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| Maria | Olá, João! | aw-LAH, zhoo-OWNG! | Hi, João! |
-| João | Olha, viva, Maria! Tudo bem contigo? | AW-lyuh, VEE-vuh, muh-REE-uh! TOO-doo bayng kong-TEE-goo? | Hey, hello, Maria! All good with you? |
-| Maria | Nem por isso... Olha lá, tens aí uns trocos que me arranjes? | nayng poor EE-soo... AW-lyuh lah, tayngz uh-EE oongsh TRAW-koosh kuh muh uh-RRUHN-zhush? | Not really... Listen, have you got some change you could spare me? |
-| João | Por acaso não tenho nada na carteira. | poor uh-KAH-zoo nowng TUH-nyoo NAH-duh nuh kur-TAY-ruh. | Actually I've got nothing in my wallet. |
-| Maria | Mas tens dólares? | mush tayngzh DAW-luh-rush? | But have you got dollars? |
-| João | Não, dólares também não tenho. | nowng, DAW-luh-rush tuhm-BAYNG nowng TUH-nyoo. | No, I haven't got dollars either. |
-| Maria | Mas tu és americano, não és? | mush too ehz uh-muh-ree-KUH-noo, nowng ehsh? | But you're American, aren't you? |
-| João | Sou americano, mas agora estou sem dinheiro nenhum! | soh uh-muh-ree-KUH-noo, mush uh-GAW-ruh ish-TOH sayng dee-NYAY-roo nuh-NYOONG! | I'm American, but right now I'm completely broke! |
-| Maria | Pronto, paciência. Obrigada na mesma, João. | PRONG-too, puh-see-AYN-see-uh. oh-bree-GAH-duh nuh MAYZH-muh, zhoo-OWNG. | Oh well, never mind. Thanks anyway, João. |
+| Maria | Olá, João! | [ɔˈla | ʒuˈɐ̃w̃] | Hi, João! |
+| João | Olha, viva, Maria! Tudo bem contigo? | [ˈɔʎɐ | ˈvivɐ | mɐˈɾiɐ ‖ ˈtudu bɐ̃j̃ kõˈtiɡu] | Hey, hello, Maria! All good with you? |
+| Maria | Nem por isso... Olha lá, tens aí uns trocos que me arranjes? | [nɐ̃j̃ puɾ ˈisu ‖ ˈɔʎɐ la | tɐ̃j̃z ɐˈi ũʃ ˈtɾɔkuʃ kɨ mɨ ɐˈʁɐ̃ʒɨʃ] | Not really... Listen, have you got some change you could spare me? |
+| João | Por acaso não tenho nada na carteira. | [puɾ ɐˈkazu nɐ̃w̃ ˈtɐɲu ˈnadɐ nɐ kɐɾˈtɐjɾɐ] | Actually I've got nothing in my wallet. |
+| Maria | Mas tens dólares? | [mɐʃ tɐ̃j̃ʒ ˈdɔlɐɾɨʃ] | But have you got dollars? |
+| João | Não, dólares também não tenho. | [nɐ̃w̃ | ˈdɔlɐɾɨʃ tɐ̃ˈbɐ̃j̃ nɐ̃w̃ ˈtɐɲu] | No, I haven't got dollars either. |
+| Maria | Mas tu és americano, não és? | [mɐʃ tu ɛz ɐmɨɾiˈkɐnu | nɐ̃w̃ ɛʃ] | But you're American, aren't you? |
+| João | Sou americano, mas agora estou sem dinheiro nenhum! | [so ɐmɨɾiˈkɐnu | mɐz ɐˈɡɔɾɐ ɨʃˈto sɐ̃j̃ diˈɲɐjɾu nɨˈɲũ] | I'm American, but right now I'm completely broke! |
+| Maria | Pronto, paciência. Obrigada na mesma, João. | [ˈpɾõtu | pɐsiˈẽsiɐ ‖ ɔbɾiˈɡadɐ nɐ ˈmeʒmɐ | ʒuˈɐ̃w̃] | Oh well, never mind. Thanks anyway, João. |
 
-**Friends say *tu*.** The course has João and Maria use first names and *você*, so as not to confuse the learner. In Portugal two friends on first-name terms always say *tu*: *Como é que estás? Tens aí uns euros?* (<Lat>KOH-moo eh kuh ish-TAHSH? tayngz uh-EE oongz EH-oo-roosh?</Lat> - How are you? Have you got a few euros?)
+**Friends say *tu*.** The course has João and Maria use first names and *você*, so as not to confuse the learner. In Portugal two friends on first-name terms always say *tu*: *Como é que estás? Tens aí uns euros?* (<Lat>[ˈkomu ɛ kɨ ɨʃˈtaʃ ‖ tɐ̃j̃z ɐˈi ũz ˈewɾuʃ]</Lat> - How are you? Have you got a few euros?)
 
-**Money slang.** *Uns trocos* (<Lat>oongsh TRAW-koosh</Lat> - some change) or *algum dinheiro* (<Lat>ahl-GOONG dee-NYAY-roo</Lat> - some money) instead of *alguns euros*. In Lisbon slang, *paus* (<Lat>powsh</Lat> - euros, literally "sticks"): *Tens aí dois paus?* (<Lat>tayngz uh-EE doysh powsh?</Lat> - Got two euros?); *massa* (<Lat>MAH-suh</Lat>) or *guito* (<Lat>GHEE-too</Lat>) for money: *Não tenho guito nenhum.* (<Lat>nowng TUH-nyoo GHEE-too nuh-NYOONG.</Lat> - I'm skint.)
+**Money slang.** *Uns trocos* (<Lat>[ũʃ ˈtɾɔkuʃ]</Lat> - some change) or *algum dinheiro* (<Lat>[aɫˈɡũ diˈɲɐjɾu]</Lat> - some money) instead of *alguns euros*. In Lisbon slang, *paus* (<Lat>[pawʃ]</Lat> - euros, literally "sticks"): *Tens aí dois paus?* (<Lat>[tɐ̃j̃z ɐˈi dojʃ pawʃ]</Lat> - Got two euros?); *massa* (<Lat>[ˈmasɐ]</Lat>) or *guito* (<Lat>[ˈɡitu]</Lat>) for money: *Não tenho guito nenhum.* (<Lat>[nɐ̃w̃ ˈtɐɲu ˈɡitu nɨˈɲũ]</Lat> - I'm skint.)
 
-**Pardon, casually.** *Como disse?* (<Lat>KOH-moo DEE-suh?</Lat> - what did you say?, formal); *O quê?* (<Lat>oo kay?</Lat> - what?) and *Como assim?* (<Lat>KOH-moo uh-SEENG?</Lat> - what do you mean?) informally.
+**Pardon, casually.** *Como disse?* (<Lat>[ˈkomu ˈdisɨ]</Lat> - what did you say?, formal); *O quê?* (<Lat>[u ke]</Lat> - what?) and *Como assim?* (<Lat>[ˈkomu ɐˈsĩ]</Lat> - what do you mean?) informally.
 
-**Negative tags.** After a negative sentence the tag becomes *pois não?* (<Lat>poysh nowng?</Lat> - have you?, do you?): *Não tens euros, pois não?* (<Lat>nowng tayngz EH-oo-roosh, poysh nowng?</Lat> - You haven't got euros, have you?). After a positive one, *não é?* or the verb itself: *És americano, não és?* (<Lat>ehz uh-muh-ree-KUH-noo, nowng ehsh?</Lat> - You're American, aren't you?).
+**Negative tags.** After a negative sentence the tag becomes *pois não?* (<Lat>[pojʒ nɐ̃w̃]</Lat> - have you?, do you?): *Não tens euros, pois não?* (<Lat>[nɐ̃w̃ tɐ̃j̃z ˈewɾuʃ | pojʒ nɐ̃w̃]</Lat> - You haven't got euros, have you?). After a positive one, *não é?* or the verb itself: *És americano, não és?* (<Lat>[ɛz ɐmɨɾiˈkɐnu | nɐ̃w̃ ɛʃ]</Lat> - You're American, aren't you?).

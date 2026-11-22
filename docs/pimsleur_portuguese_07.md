@@ -8,48 +8,48 @@ unidade: 7
 
 João wants to know how much money Maria has on her.
 
-| Who | Portuguese | Pronunciation | English |
+| Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| João | Maria, quantos euros é que você tem? | muh-REE-uh, KWUHN-tooz EH-oo-roosh eh kuh voh-SAY tayng? | Maria, how many euros do you have? |
-| Maria | Eu não tenho muitos euros, João. Dois euros. | EH-oo nowng TUH-nyoo MOOYNG-tooz EH-oo-roosh, zhoo-OWNG. doyz EH-oo-roosh. | I don't have many euros, João. Two euros. |
-| João | Você não tem muitos euros na sua carteira? | voh-SAY nowng tayng MOOYNG-tooz EH-oo-roosh nuh SOO-uh kur-TAY-ruh? | You don't have many euros in your wallet? |
-| Maria | Na minha casa eu tenho muitos euros. Vamos. | nuh MEE-nyuh KAH-zuh EH-oo TUH-nyoo MOOYNG-tooz EH-oo-roosh. VUH-moosh. | At my place I have lots of euros. Let's go. |
+| João | Maria, quantos euros é que você tem? | [mɐˈɾiɐ | ˈkwɐ̃tuz ˈewɾuz ɛ kɨ vɔˈse tɐ̃j̃] | Maria, how many euros do you have? |
+| Maria | Eu não tenho muitos euros, João. Dois euros. | [ew nɐ̃w̃ ˈtɐɲu ˈmũj̃tuz ˈewɾuʃ | ʒuˈɐ̃w̃ ‖ dojz ˈewɾuʃ] | I don't have many euros, João. Two euros. |
+| João | Você não tem muitos euros na sua carteira? | [vɔˈse nɐ̃w̃ tɐ̃j̃ ˈmũj̃tuz ˈewɾuʒ nɐ ˈsuɐ kɐɾˈtɐjɾɐ] | You don't have many euros in your wallet? |
+| Maria | Na minha casa eu tenho muitos euros. Vamos. | [nɐ ˈmiɲɐ ˈkazɐ ew ˈtɐɲu ˈmũj̃tuz ˈewɾuʃ ‖ ˈvɐmuʃ] | At my place I have lots of euros. Let's go. |
 
 ## Concepts
 
-**Want to + verb.** *Querer* (<Lat>kuh-RAYR</Lat> - to want) is followed directly by the infinitive: *Quero comer.* (<Lat>KEH-roo koo-MAYR.</Lat> - I want to eat.), *O que é que você quer comer?* (<Lat>oo kuh eh kuh voh-SAY kehr koo-MAYR?</Lat> - What do you want to eat?)
+**Want to + verb.** *Querer* (<Lat>[kɨˈɾeɾ]</Lat> - to want) is followed directly by the infinitive: *Quero comer.* (<Lat>[ˈkɛɾu kuˈmeɾ]</Lat> - I want to eat.), *O que é que você quer comer?* (<Lat>[u kɨ ɛ kɨ vɔˈse kɛɾ kuˈmeɾ]</Lat> - What do you want to eat?)
 
-**Something and nothing.** *Alguma coisa* (<Lat>ahl-GOO-muh KOY-zuh</Lat> - something): *Quero comer alguma coisa.* (<Lat>KEH-roo koo-MAYR ahl-GOO-muh KOY-zuh.</Lat> - I want to eat something.) *Nada* (<Lat>NAH-duh</Lat> - nothing) needs *não* before the verb as well, a double negative that is correct in Portuguese: *Não quero comer nada.* (<Lat>nowng KEH-roo koo-MAYR NAH-duh.</Lat> - I don't want to eat anything.)
+**Something and nothing.** *Alguma coisa* (<Lat>[aɫˈɡumɐ ˈkojzɐ]</Lat> - something): *Quero comer alguma coisa.* (<Lat>[ˈkɛɾu kuˈmeɾ aɫˈɡumɐ ˈkojzɐ]</Lat> - I want to eat something.) *Nada* (<Lat>[ˈnadɐ]</Lat> - nothing) needs *não* before the verb as well, a double negative that is correct in Portuguese: *Não quero comer nada.* (<Lat>[nɐ̃w̃ ˈkɛɾu kuˈmeɾ ˈnadɐ]</Lat> - I don't want to eat anything.)
 
-**OK.** *Está bem* (<Lat>ish-TAH bayng</Lat> - OK, all right) to agree or to move on.
+**OK.** *Está bem* (<Lat>[ɨʃˈta bɐ̃j̃]</Lat> - OK, all right) to agree or to move on.
 
-**Let's.** *Vamos* (<Lat>VUH-moosh</Lat> - let's go; we go), from *ir* (<Lat>eer</Lat> - to go): *Vamos comer.* (<Lat>VUH-moosh koo-MAYR.</Lat> - Let's eat.)
+**Let's.** *Vamos* (<Lat>[ˈvɐmuʃ]</Lat> - let's go; we go), from *ir* (<Lat>[iɾ]</Lat> - to go): *Vamos comer.* (<Lat>[ˈvɐmuʃ kuˈmeɾ]</Lat> - Let's eat.)
 
-**A Lisbon classic.** *Um pastel de nata* (<Lat>oong push-TEHL duh NAH-tuh</Lat> - a custard tart).
+**A Lisbon classic.** *Um pastel de nata* (<Lat>[ũ pɐʃˈtɛɫ dɨ ˈnatɐ]</Lat> - a custard tart).
 
-**More numbers.** *quatro* (<Lat>KWAH-troo</Lat> - four), *cinco* (<Lat>SEENG-koo</Lat> - five).
+**More numbers.** *quatro* (<Lat>[ˈkwatɾu]</Lat> - four), *cinco* (<Lat>[ˈsĩku]</Lat> - five).
 
-**A tiny bit.** *Um bocadinho* (<Lat>oong boo-kuh-DEE-nyoo</Lat> - a little bit), the everyday diminutive.
+**A tiny bit.** *Um bocadinho* (<Lat>[ũ bukɐˈdiɲu]</Lat> - a little bit), the everyday diminutive.
 
-**Dona.** *Dona Maria* (<Lat>DOH-nuh muh-REE-uh</Lat> - Mrs Maria): *Dona* before a woman's first name shows respect for someone you know but still treat formally, in the third person.
+**Dona.** *Dona Maria* (<Lat>[ˈdonɐ mɐˈɾiɐ]</Lat> - Mrs Maria): *Dona* before a woman's first name shows respect for someone you know but still treat formally, in the third person.
 
 ## Vocabulary
 
-| Portuguese | Pronunciation | English |
+| Portuguese | IPA | English |
 |:--|:--|:--|
-| muitos euros | MOOYNG-tooz EH-oo-roosh | many euros |
-| a casa | uh KAH-zuh | the house, home |
-| na minha casa | nuh MEE-nyuh KAH-zuh | at my house |
-| vamos | VUH-moosh | let's go; we go |
-| comer | koo-MAYR | to eat |
-| o que é que...? | oo kuh eh kuh...? | what...? |
-| alguma coisa | ahl-GOO-muh KOY-zuh | something |
-| nada | NAH-duh | nothing |
-| está bem | ish-TAH bayng | OK |
-| um pastel de nata | oong push-TEHL duh NAH-tuh | a custard tart |
-| quatro, cinco | KWAH-troo, SEENG-koo | four, five |
-| um bocadinho | oong boo-kuh-DEE-nyoo | a little bit |
-| Dona | DOH-nuh | Mrs (before a first name) |
+| muitos euros | [ˈmũj̃tuz ˈewɾuʃ] | many euros |
+| a casa | [ɐ ˈkazɐ] | the house, home |
+| na minha casa | [nɐ ˈmiɲɐ ˈkazɐ] | at my house |
+| vamos | [ˈvɐmuʃ] | let's go; we go |
+| comer | [kuˈmeɾ] | to eat |
+| o que é que...? | [u kɨ ɛ kɨ] | what...? |
+| alguma coisa | [aɫˈɡumɐ ˈkojzɐ] | something |
+| nada | [ˈnadɐ] | nothing |
+| está bem | [ɨʃˈta bɐ̃j̃] | OK |
+| um pastel de nata | [ũ pɐʃˈtɛɫ dɨ ˈnatɐ] | a custard tart |
+| quatro, cinco | [ˈkwatɾu] [ˈsĩku] | four, five |
+| um bocadinho | [ũ bukɐˈdiɲu] | a little bit |
+| Dona | [ˈdonɐ] | Mrs (before a first name) |
 
 ## Exercises
 
@@ -69,17 +69,17 @@ João wants to know how much money Maria has on her.
 
 ## Informal version
 
-| Who | Portuguese | Pronunciation | English |
+| Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| João | Ó Maria, quanto dinheiro é que tens aí contigo? | aw muh-REE-uh, KWUHN-too dee-NYAY-roo eh kuh tayngz uh-EE kong-TEE-goo? | Hey Maria, how much money have you got on you? |
-| Maria | Quase nada, João... só tenho dois euros. | KWAH-zuh NAH-duh, zhoo-OWNG... saw TUH-nyoo doyz EH-oo-roosh. | Hardly anything, João... I've only got two euros. |
-| João | Não tens mais nada na carteira? | nowng tayngzh myzh NAH-duh nuh kur-TAY-ruh? | Nothing else in your wallet? |
-| Maria | Tenho lá em casa. Anda daí, vamos embora! | TUH-nyoo lah ayng KAH-zuh. UHN-duh duh-EE, VUH-mooz ayng-BAW-ruh! | I've got some back home. Come on, let's go! |
+| João | Ó Maria, quanto dinheiro é que tens aí contigo? | [ɔ mɐˈɾiɐ | ˈkwɐ̃tu diˈɲɐjɾu ɛ kɨ tɐ̃j̃z ɐˈi kõˈtiɡu] | Hey Maria, how much money have you got on you? |
+| Maria | Quase nada, João... só tenho dois euros. | [ˈkwazɨ ˈnadɐ | ʒuˈɐ̃w̃ ‖ sɔ ˈtɐɲu dojz ˈewɾuʃ] | Hardly anything, João... I've only got two euros. |
+| João | Não tens mais nada na carteira? | [nɐ̃w̃ tɐ̃j̃ʒ majʒ ˈnadɐ nɐ kɐɾˈtɐjɾɐ] | Nothing else in your wallet? |
+| Maria | Tenho lá em casa. Anda daí, vamos embora! | [ˈtɐɲu la ɐ̃j̃ ˈkazɐ ‖ ˈɐ̃dɐ dɐˈi | ˈvɐmuz ẽˈbɔɾɐ] | I've got some back home. Come on, let's go! |
 
-**At home.** *Na minha casa* is correct, but the most natural ways to say "at home" are *em casa* (<Lat>ayng KAH-zuh</Lat> - at home), *em minha casa* (<Lat>ayng MEE-nyuh KAH-zuh</Lat> - at my place) or *lá em casa* (<Lat>lah ayng KAH-zuh</Lat> - back at home): *Tenho dinheiro lá em casa.* (<Lat>TUH-nyoo dee-NYAY-roo lah ayng KAH-zuh.</Lat> - I've got money back home.)
+**At home.** *Na minha casa* is correct, but the most natural ways to say "at home" are *em casa* (<Lat>[ɐ̃j̃ ˈkazɐ]</Lat> - at home), *em minha casa* (<Lat>[ɐ̃j̃ ˈmiɲɐ ˈkazɐ]</Lat> - at my place) or *lá em casa* (<Lat>[la ɐ̃j̃ ˈkazɐ]</Lat> - back at home): *Tenho dinheiro lá em casa.* (<Lat>[ˈtɐɲu diˈɲɐjɾu la ɐ̃j̃ ˈkazɐ]</Lat> - I've got money back home.)
 
-***Uma nata.*** In Lisbon cafés a custard tart is often ordered as just *uma nata* (<Lat>OO-muh NAH-tuh</Lat>): *Era um café e uma nata, se faz favor.* (<Lat>EH-ruh oong kuh-FEH ee OO-muh NAH-tuh, suh fahsh fuh-VOHR.</Lat> - A coffee and a custard tart, please.) *Pastéis de Belém* is the name of the historic bakery in Belém and its own tarts.
+***Uma nata.*** In Lisbon cafés a custard tart is often ordered as just *uma nata* (<Lat>[ˈumɐ ˈnatɐ]</Lat>): *Era um café e uma nata, se faz favor.* (<Lat>[ˈɛɾɐ ũ kɐˈfɛ i ˈumɐ ˈnatɐ | sɨ faʃ fɐˈvoɾ]</Lat> - A coffee and a custard tart, please.) *Pastéis de Belém* is the name of the historic bakery in Belém and its own tarts.
 
-**OK, casually.** In fast speech *está bem* shrinks to *'tá bem* (<Lat>tah bayng</Lat>). Also common: *Combinado* (<Lat>kong-bee-NAH-doo</Lat> - deal), *Feito* (<Lat>FAY-too</Lat> - done) and, among young people, *Siga!* (<Lat>SEE-guh!</Lat> - let's go!, literally "go on").
+**OK, casually.** In fast speech *está bem* shrinks to *'tá bem* (<Lat>[ta bɐ̃j̃]</Lat>). Also common: *Combinado* (<Lat>[kõbiˈnadu]</Lat> - deal), *Feito* (<Lat>[ˈfɐjtu]</Lat> - done) and, among young people, *Siga!* (<Lat>[ˈsiɡɐ]</Lat> - let's go!, literally "go on").
 
-***Ó* and *anda daí*.** *Ó Maria* (<Lat>aw muh-REE-uh</Lat> - hey Maria) is the spoken way to call someone by name. *Anda daí* (<Lat>UHN-duh duh-EE</Lat> - come on) and *vamos embora* (<Lat>VUH-mooz ayng-BAW-ruh</Lat> - let's go, let's get going) get people moving.
+***Ó* and *anda daí*.** *Ó Maria* (<Lat>[ɔ mɐˈɾiɐ]</Lat> - hey Maria) is the spoken way to call someone by name. *Anda daí* (<Lat>[ˈɐ̃dɐ dɐˈi]</Lat> - come on) and *vamos embora* (<Lat>[ˈvɐmuz ẽˈbɔɾɐ]</Lat> - let's go, let's get going) get people moving.
