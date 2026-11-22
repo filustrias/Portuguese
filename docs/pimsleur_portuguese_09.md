@@ -10,15 +10,15 @@ João is hungry, Maria is thirsty, and the money is short.
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| João | Boa tarde, Maria. Quero comer alguma coisa. E você? | [ˈboɐ ˈtaɾdɨ | mɐˈɾiɐ ‖ ˈkɛɾu kuˈmeɾ aɫˈɡumɐ ˈkojzɐ ‖ i vɔˈse] | Good afternoon, Maria. I want to eat something. And you? |
-| Maria | Não, não quero comer nada, mas quero beber alguma coisa. | [nɐ̃w̃ | nɐ̃w̃ ˈkɛɾu kuˈmeɾ ˈnadɐ | mɐʃ ˈkɛɾu bɨˈbeɾ aɫˈɡumɐ ˈkojzɐ] | No, I don't want to eat anything, but I want to drink something. |
+| João | Boa tarde, Maria. Quero comer alguma coisa. E você? | [ˈboɐ ˈtaɾdɨ &#124; mɐˈɾiɐ ‖ ˈkɛɾu kuˈmeɾ aɫˈɡumɐ ˈkojzɐ ‖ i vɔˈse] | Good afternoon, Maria. I want to eat something. And you? |
+| Maria | Não, não quero comer nada, mas quero beber alguma coisa. | [nɐ̃w̃ &#124; nɐ̃w̃ ˈkɛɾu kuˈmeɾ ˈnadɐ &#124; mɐʃ ˈkɛɾu bɨˈbeɾ aɫˈɡumɐ ˈkojzɐ] | No, I don't want to eat anything, but I want to drink something. |
 | João | Uma água mineral? | [ˈumɐ ˈaɡwɐ minɨˈɾaɫ] | A mineral water? |
-| Maria | Sim, se faz favor. | [sĩ | sɨ faʃ fɐˈvoɾ] | Yes, please. |
+| Maria | Sim, se faz favor. | [sĩ &#124; sɨ faʃ fɐˈvoɾ] | Yes, please. |
 | João | Sabe quanto é que custa uma água mineral? | [ˈsabɨ ˈkwɐ̃tu ɛ kɨ ˈkuʃtɐ ˈumɐ ˈaɡwɐ minɨˈɾaɫ] | Do you know how much a mineral water costs? |
-| Maria | Sim, sei. Custa três euros. Duas águas minerais, seis euros. | [sĩ | sɐj ‖ ˈkuʃtɐ tɾez ˈewɾuʃ ‖ ˈduɐz ˈaɡwɐʒ minɨˈɾajʃ | sɐjz ˈewɾuʃ] | Yes, I do. It's three euros. Two mineral waters, six euros. |
+| Maria | Sim, sei. Custa três euros. Duas águas minerais, seis euros. | [sĩ &#124; sɐj ‖ ˈkuʃtɐ tɾez ˈewɾuʃ ‖ ˈduɐz ˈaɡwɐʒ minɨˈɾajʃ &#124; sɐjz ˈewɾuʃ] | Yes, I do. It's three euros. Two mineral waters, six euros. |
 | João | Seis euros? Mas eu não tenho seis euros. Quantos euros é que tem? | [sɐjz ˈewɾuʃ ‖ mɐz ew nɐ̃w̃ ˈtɐɲu sɐjz ˈewɾuʃ ‖ ˈkwɐ̃tuz ˈewɾuz ɛ kɨ tɐ̃j̃] | Six euros? But I don't have six euros. How many euros do you have? |
 | Maria | Cinco euros. | [ˈsĩku ˈewɾuʃ] | Five euros. |
-| João | Está bem, Maria. Eu tenho um euro. | [ɨʃˈta bɐ̃j̃ | mɐˈɾiɐ ‖ ew ˈtɐɲu ũ ˈewɾu] | OK, Maria. I have one euro. |
+| João | Está bem, Maria. Eu tenho um euro. | [ɨʃˈta bɐ̃j̃ &#124; mɐˈɾiɐ ‖ ew ˈtɐɲu ũ ˈewɾu] | OK, Maria. I have one euro. |
 | Maria | Muito bem. Vamos ao café. | [ˈmũj̃tu bɐ̃j̃ ‖ ˈvɐmuz aw kɐˈfɛ] | Very good. Let's go to the café. |
 
 ## Concepts
@@ -83,15 +83,15 @@ João is hungry, Maria is thirsty, and the money is short.
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| João | Boa tarde, Maria. Ia ali comer qualquer coisa, vens comigo? | [ˈboɐ ˈtaɾdɨ | mɐˈɾiɐ ‖ ˈiɐ ɐˈli kuˈmeɾ kwaɫˈkɛɾ ˈkojzɐ | vɐ̃j̃ʃ kuˈmiɡu] | Afternoon, Maria. I was going to grab something to eat, are you coming? |
-| Maria | Olha, fome não tenho nenhuma, mas bebia qualquer coisa fresca. | [ˈɔʎɐ | ˈfɔmɨ nɐ̃w̃ ˈtɐɲu nɨˈɲumɐ | mɐʒ bɨˈbiɐ kwaɫˈkɛɾ ˈkojzɐ ˈfɾeʃkɐ] | Well, I'm not hungry at all, but I'd drink something cold. |
+| João | Boa tarde, Maria. Ia ali comer qualquer coisa, vens comigo? | [ˈboɐ ˈtaɾdɨ &#124; mɐˈɾiɐ ‖ ˈiɐ ɐˈli kuˈmeɾ kwaɫˈkɛɾ ˈkojzɐ &#124; vɐ̃j̃ʃ kuˈmiɡu] | Afternoon, Maria. I was going to grab something to eat, are you coming? |
+| Maria | Olha, fome não tenho nenhuma, mas bebia qualquer coisa fresca. | [ˈɔʎɐ &#124; ˈfɔmɨ nɐ̃w̃ ˈtɐɲu nɨˈɲumɐ &#124; mɐʒ bɨˈbiɐ kwaɫˈkɛɾ ˈkojzɐ ˈfɾeʃkɐ] | Well, I'm not hungry at all, but I'd drink something cold. |
 | João | Queres uma água? | [ˈkɛɾɨz ˈumɐ ˈaɡwɐ] | Do you want a water? |
-| Maria | Pode ser, se faz favor. | [ˈpɔdɨ seɾ | sɨ faʃ fɐˈvoɾ] | That'd be fine, please. |
+| Maria | Pode ser, se faz favor. | [ˈpɔdɨ seɾ &#124; sɨ faʃ fɐˈvoɾ] | That'd be fine, please. |
 | João | Sabes a quanto é que está a água? | [ˈsabɨz ɐ ˈkwɐ̃tu ɛ kɨ ɨʃˈta ɐ ˈaɡwɐ] | Do you know how much water is going for? |
-| Maria | Sei, deve ser aí uns três euros. Se forem duas, são seis. | [sɐj | ˈdɛvɨ seɾ ɐˈi ũʃ tɾez ˈewɾuʃ ‖ sɨ ˈfoɾɐ̃j̃ ˈduɐʃ | sɐ̃w̃ sɐjʃ] | I do, it must be about three euros. If it's two, that's six. |
-| João | Pois, mas eu não tenho esse dinheiro todo. Quanto é que tens aí? | [pojʃ | mɐz ew nɐ̃w̃ ˈtɐɲu ˈesɨ diˈɲɐjɾu ˈtodu ‖ ˈkwɐ̃tu ɛ kɨ tɐ̃j̃z ɐˈi] | Right, but I don't have all that money. How much have you got? |
+| Maria | Sei, deve ser aí uns três euros. Se forem duas, são seis. | [sɐj &#124; ˈdɛvɨ seɾ ɐˈi ũʃ tɾez ˈewɾuʃ ‖ sɨ ˈfoɾɐ̃j̃ ˈduɐʃ &#124; sɐ̃w̃ sɐjʃ] | I do, it must be about three euros. If it's two, that's six. |
+| João | Pois, mas eu não tenho esse dinheiro todo. Quanto é que tens aí? | [pojʃ &#124; mɐz ew nɐ̃w̃ ˈtɐɲu ˈesɨ diˈɲɐjɾu ˈtodu ‖ ˈkwɐ̃tu ɛ kɨ tɐ̃j̃z ɐˈi] | Right, but I don't have all that money. How much have you got? |
 | Maria | Tenho cinco euros. | [ˈtɐɲu ˈsĩku ˈewɾuʃ] | I've got five euros. |
-| João | Pronto, na boa, eu meto o resto. Bora ao café. | [ˈpɾõtu | nɐ ˈboɐ | ew ˈmɛtu u ˈʁɛʃtu ‖ ˈbɔɾɐ aw kɐˈfɛ] | Right, no problem, I'll put in the rest. Let's go to the café. |
+| João | Pronto, na boa, eu meto o resto. Bora ao café. | [ˈpɾõtu &#124; nɐ ˈboɐ &#124; ew ˈmɛtu u ˈʁɛʃtu ‖ ˈbɔɾɐ aw kɐˈfɛ] | Right, no problem, I'll put in the rest. Let's go to the café. |
 
 ***Aonde* in practice.** Grammar books require *aonde* with *ir*, but in speech it varies a lot, and you will often hear *Onde é que vais?* (<Lat>[ˈõdɨ ɛ kɨ vajʃ]</Lat> - where are you going?) or *Vais para onde?* (<Lat>[vajʃ ˈpɐɾɐ ˈõdɨ]</Lat> - going where?).
 

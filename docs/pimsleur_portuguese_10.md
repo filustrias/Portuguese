@@ -10,8 +10,8 @@ João meets Maria in the morning and invites her for a coffee.
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| João | Bom dia, Maria. Como está? | [bõ ˈdiɐ | mɐˈɾiɐ ‖ ˈkomu ɨʃˈta] | Good morning, Maria. How are you? |
-| Maria | Bem, obrigada. Aonde é que vai? | [bɐ̃j̃ | ɔbɾiˈɡadɐ ‖ ɐˈõdɨ ɛ kɨ vaj] | Fine, thank you. Where are you going? |
+| João | Bom dia, Maria. Como está? | [bõ ˈdiɐ &#124; mɐˈɾiɐ ‖ ˈkomu ɨʃˈta] | Good morning, Maria. How are you? |
+| Maria | Bem, obrigada. Aonde é que vai? | [bɐ̃j̃ &#124; ɔbɾiˈɡadɐ ‖ ɐˈõdɨ ɛ kɨ vaj] | Fine, thank you. Where are you going? |
 | João | Vou ao café. E você? | [vo aw kɐˈfɛ ‖ i vɔˈse] | I'm going to the café. And you? |
 | Maria | Não sei. | [nɐ̃w̃ sɐj] | I don't know. |
 | João | Quer tomar um café? | [kɛɾ tuˈmaɾ ũ kɐˈfɛ] | Would you like to have a coffee? |
@@ -74,12 +74,12 @@ João meets Maria in the morning and invites her for a coffee.
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| João | Olá, Maria! Tudo bem? | [ɔˈla | mɐˈɾiɐ ‖ ˈtudu bɐ̃j̃] | Hi, Maria! All good? |
-| Maria | Tudo bem, e contigo? Para onde é que vais? | [ˈtudu bɐ̃j̃ | i kõˈtiɡu ‖ ˈpɐɾɐ ˈõdɨ ɛ kɨ vajʃ] | All good, and you? Where are you off to? |
+| João | Olá, Maria! Tudo bem? | [ɔˈla &#124; mɐˈɾiɐ ‖ ˈtudu bɐ̃j̃] | Hi, Maria! All good? |
+| Maria | Tudo bem, e contigo? Para onde é que vais? | [ˈtudu bɐ̃j̃ &#124; i kõˈtiɡu ‖ ˈpɐɾɐ ˈõdɨ ɛ kɨ vajʃ] | All good, and you? Where are you off to? |
 | João | Vou ali ao café. Alinhas? | [vo ɐˈli aw kɐˈfɛ ‖ ɐˈliɲɐʃ] | I'm heading to the café. Are you in? |
 | Maria | Não sei bem o que vou fazer... | [nɐ̃w̃ sɐj bɐ̃j̃ u kɨ vo fɐˈzeɾ] | I'm not really sure what I'm going to do... |
-| João | Anda daí beber uma bica, anda. | [ˈɐ̃dɐ dɐˈi bɨˈbeɾ ˈumɐ ˈbikɐ | ˈɐ̃dɐ] | Come on, come and have an espresso. |
-| Maria | Olha, calha mesmo bem, apetece-me mesmo uma bica. | [ˈɔʎɐ | ˈkaʎɐ ˈmeʒmu bɐ̃j̃ | ɐpɨˈtɛsɨmɨ ˈmeʒmu ˈumɐ ˈbikɐ] | You know what, that's perfect, I really fancy an espresso. |
+| João | Anda daí beber uma bica, anda. | [ˈɐ̃dɐ dɐˈi bɨˈbeɾ ˈumɐ ˈbikɐ &#124; ˈɐ̃dɐ] | Come on, come and have an espresso. |
+| Maria | Olha, calha mesmo bem, apetece-me mesmo uma bica. | [ˈɔʎɐ &#124; ˈkaʎɐ ˈmeʒmu bɐ̃j̃ &#124; ɐpɨˈtɛsɨmɨ ˈmeʒmu ˈumɐ ˈbikɐ] | You know what, that's perfect, I really fancy an espresso. |
 | João | Então venha de lá esse café e a gente aproveita para petiscar qualquer coisa. | [ẽˈtɐ̃w̃ ˈvɐɲɐ dɨ la ˈesɨ kɐˈfɛ i ɐ ˈʒẽtɨ ɐpɾuˈvɐjtɐ ˈpɐɾɐ pɨtiʃˈkaɾ kwaɫˈkɛɾ ˈkojzɐ] | Then bring on that coffee, and we'll grab a little something to nibble too. |
 
 **Ordering coffee.** All over Portugal *um café* (<Lat>[ũ kɐˈfɛ]</Lat> - a coffee) means an espresso by default. Lisbon says *uma bica*; in Porto you may hear *um cimbalino* (<Lat>[ũ sĩbɐˈlinu]</Lat> - an espresso, in the north). At the counter the natural order is *Era um café, se faz favor!* (<Lat>[ˈɛɾɐ ũ kɐˈfɛ | sɨ faʃ fɐˈvoɾ]</Lat> - I'll have a coffee, please!). The past tense *era* (<Lat>[ˈɛɾɐ]</Lat> - literally "it was") makes the request soft and polite, and is more common than a direct *quero um café*.

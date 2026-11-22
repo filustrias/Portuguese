@@ -10,16 +10,16 @@ A woman calls out to a man she does not know and checks which languages he speak
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| Woman | Senhor, senhor. | [sɨˈɲoɾ | sɨˈɲoɾ] | Sir, sir. |
-| Man | Sim, minha senhora. | [sĩ | ˈmiɲɐ sɨˈɲɔɾɐ] | Yes, madam. |
+| Woman | Senhor, senhor. | [sɨˈɲoɾ &#124; sɨˈɲoɾ] | Sir, sir. |
+| Man | Sim, minha senhora. | [sĩ &#124; ˈmiɲɐ sɨˈɲɔɾɐ] | Yes, madam. |
 | Woman | O senhor fala português? | [u sɨˈɲoɾ ˈfalɐ puɾtuˈɡeʃ] | Do you speak Portuguese? |
-| Man | Não, minha senhora. Eu não falo português. | [nɐ̃w̃ | ˈmiɲɐ sɨˈɲɔɾɐ ‖ ew nɐ̃w̃ ˈfalu puɾtuˈɡeʃ] | No, madam. I don't speak Portuguese. |
+| Man | Não, minha senhora. Eu não falo português. | [nɐ̃w̃ &#124; ˈmiɲɐ sɨˈɲɔɾɐ ‖ ew nɐ̃w̃ ˈfalu puɾtuˈɡeʃ] | No, madam. I don't speak Portuguese. |
 | Woman | O senhor percebe um pouco de português? | [u sɨˈɲoɾ pɨɾˈsɛbɨ ũ ˈpoku dɨ puɾtuˈɡeʃ] | Do you understand a little Portuguese? |
-| Man | Sim, eu percebo um pouco. | [sĩ | ew pɨɾˈsebu ũ ˈpoku] | Yes, I understand a little. |
+| Man | Sim, eu percebo um pouco. | [sĩ &#124; ew pɨɾˈsebu ũ ˈpoku] | Yes, I understand a little. |
 | Woman | O senhor fala inglês? | [u sɨˈɲoɾ ˈfalɐ ĩˈɡleʃ] | Do you speak English? |
-| Man | Sim, eu falo inglês. | [sĩ | ew ˈfalu ĩˈɡleʃ] | Yes, I speak English. |
-| Woman | Ah, o senhor é americano? | [a | u sɨˈɲoɾ ɛ ɐmɨɾiˈkɐnu] | Oh, are you American? |
-| Man | Sim, eu sou americano. | [sĩ | ew so ɐmɨɾiˈkɐnu] | Yes, I'm American. |
+| Man | Sim, eu falo inglês. | [sĩ &#124; ew ˈfalu ĩˈɡleʃ] | Yes, I speak English. |
+| Woman | Ah, o senhor é americano? | [a &#124; u sɨˈɲoɾ ɛ ɐmɨɾiˈkɐnu] | Oh, are you American? |
+| Man | Sim, eu sou americano. | [sĩ &#124; ew so ɐmɨɾiˈkɐnu] | Yes, I'm American. |
 
 ## Concepts
 
@@ -72,16 +72,16 @@ A woman calls out to a man she does not know and checks which languages he speak
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| Woman | Olhe, desculpe! | [ˈɔʎɨ | dɨʃˈkuɫpɨ] | Excuse me! |
-| Man | Diga, com certeza. | [ˈdiɡɐ | kõ sɨɾˈtezɐ] | Yes, of course, go ahead. |
+| Woman | Olhe, desculpe! | [ˈɔʎɨ &#124; dɨʃˈkuɫpɨ] | Excuse me! |
+| Man | Diga, com certeza. | [ˈdiɡɐ &#124; kõ sɨɾˈtezɐ] | Yes, of course, go ahead. |
 | Woman | Fala português? | [ˈfalɐ puɾtuˈɡeʃ] | Do you speak Portuguese? |
-| Man | Não, não falo português. | [nɐ̃w̃ | nɐ̃w̃ ˈfalu puɾtuˈɡeʃ] | No, I don't speak Portuguese. |
+| Man | Não, não falo português. | [nɐ̃w̃ &#124; nɐ̃w̃ ˈfalu puɾtuˈɡeʃ] | No, I don't speak Portuguese. |
 | Woman | Mas percebe alguma coisa? | [mɐʃ pɨɾˈsɛbɨ aɫˈɡumɐ ˈkojzɐ] | But do you understand anything? |
-| Man | Sim, percebo um bocadinho. | [sĩ | pɨɾˈsebu ũ bukɐˈdiɲu] | Yes, I understand a tiny bit. |
+| Man | Sim, percebo um bocadinho. | [sĩ &#124; pɨɾˈsebu ũ bukɐˈdiɲu] | Yes, I understand a tiny bit. |
 | Woman | E fala inglês? | [i ˈfalɐ ĩˈɡleʃ] | And do you speak English? |
-| Man | Falo, falo inglês. | [ˈfalu | ˈfalu ĩˈɡleʃ] | I do, I speak English. |
-| Woman | Ah, é americano? | [a | ɛ ɐmɨɾiˈkɐnu] | Oh, are you American? |
-| Man | Sou, sou americano. | [so | so ɐmɨɾiˈkɐnu] | I am, I'm American. |
+| Man | Falo, falo inglês. | [ˈfalu &#124; ˈfalu ĩˈɡleʃ] | I do, I speak English. |
+| Woman | Ah, é americano? | [a &#124; ɛ ɐmɨɾiˈkɐnu] | Oh, are you American? |
+| Man | Sou, sou americano. | [so &#124; so ɐmɨɾiˈkɐnu] | I am, I'm American. |
 
 **Calling someone.** Repeating *Senhor!* sounds artificial in Portugal. People say *Olhe, por favor!* (<Lat>[ˈɔʎɨ | puɾ fɐˈvoɾ]</Lat> - excuse me, please!), *Olhe, desculpe!* or simply *Faz favor!* (<Lat>[faʃ fɐˈvoɾ]</Lat> - excuse me!). The answer *Diga* (<Lat>[ˈdiɡɐ]</Lat> - literally "say it") invites the person to go on.
 

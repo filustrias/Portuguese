@@ -10,11 +10,11 @@ Maria and Carlos pool their money to get something to eat.
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| Maria | Olá, Carlos. | [ɔˈla | ˈkaɾluʃ] | Hi, Carlos. |
-| Carlos | Bom dia, Maria. O que é que você quer? | [bõ ˈdiɐ | mɐˈɾiɐ ‖ u kɨ ɛ kɨ vɔˈse kɛɾ] | Good morning, Maria. What would you like? |
+| Maria | Olá, Carlos. | [ɔˈla &#124; ˈkaɾluʃ] | Hi, Carlos. |
+| Carlos | Bom dia, Maria. O que é que você quer? | [bõ ˈdiɐ &#124; mɐˈɾiɐ ‖ u kɨ ɛ kɨ vɔˈse kɛɾ] | Good morning, Maria. What would you like? |
 | Maria | O que é que eu quero? Quero comer alguma coisa. Quantos euros é que você tem? | [u kɨ ɛ kɨ ew ˈkɛɾu ‖ ˈkɛɾu kuˈmeɾ aɫˈɡumɐ ˈkojzɐ ‖ ˈkwɐ̃tuz ˈewɾuz ɛ kɨ vɔˈse tɐ̃j̃] | What do I want? I want to eat something. How many euros do you have? |
 | Carlos | Eu tenho três euros. É muito pouco. E você? | [ew ˈtɐɲu tɾez ˈewɾuʃ ‖ ɛ ˈmũj̃tu ˈpoku ‖ i vɔˈse] | I have three euros. That's very little. And you? |
-| Maria | Tenho quatro... quatro euros. | [ˈtɐɲu ˈkwatɾu | ˈkwatɾu ˈewɾuʃ] | I have four... four euros. |
+| Maria | Tenho quatro... quatro euros. | [ˈtɐɲu ˈkwatɾu &#124; ˈkwatɾu ˈewɾuʃ] | I have four... four euros. |
 | Carlos | Está bem. Vamos comer. | [ɨʃˈta bɐ̃j̃ ‖ ˈvɐmuʃ kuˈmeɾ] | OK. Let's eat. |
 
 ## Concepts
@@ -75,12 +75,12 @@ Maria and Carlos pool their money to get something to eat.
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| Maria | Olá, Carlos! | [ɔˈla | ˈkaɾluʃ] | Hi, Carlos! |
-| Carlos | Viva, Maria! O que é que te apetece fazer? | [ˈvivɐ | mɐˈɾiɐ ‖ u kɨ ɛ kɨ tɨ ɐpɨˈtɛsɨ fɐˈzeɾ] | Hey, Maria! What do you feel like doing? |
-| Maria | Olha, comia qualquer coisa. Quanto é que tens aí? | [ˈɔʎɐ | kuˈmiɐ kwaɫˈkɛɾ ˈkojzɐ ‖ ˈkwɐ̃tu ɛ kɨ tɐ̃j̃z ɐˈi] | Well, I could eat something. How much have you got? |
-| Carlos | Só tenho para aí três euros, não chega para nada. E tu? | [sɔ ˈtɐɲu ˈpɐɾɐ ɐˈi tɾez ˈewɾuʃ | nɐ̃w̃ ˈʃeɡɐ ˈpɐɾɐ ˈnadɐ ‖ i tu] | I've only got about three euros, that won't buy anything. And you? |
+| Maria | Olá, Carlos! | [ɔˈla &#124; ˈkaɾluʃ] | Hi, Carlos! |
+| Carlos | Viva, Maria! O que é que te apetece fazer? | [ˈvivɐ &#124; mɐˈɾiɐ ‖ u kɨ ɛ kɨ tɨ ɐpɨˈtɛsɨ fɐˈzeɾ] | Hey, Maria! What do you feel like doing? |
+| Maria | Olha, comia qualquer coisa. Quanto é que tens aí? | [ˈɔʎɐ &#124; kuˈmiɐ kwaɫˈkɛɾ ˈkojzɐ ‖ ˈkwɐ̃tu ɛ kɨ tɐ̃j̃z ɐˈi] | Well, I could eat something. How much have you got? |
+| Carlos | Só tenho para aí três euros, não chega para nada. E tu? | [sɔ ˈtɐɲu ˈpɐɾɐ ɐˈi tɾez ˈewɾuʃ &#124; nɐ̃w̃ ˈʃeɡɐ ˈpɐɾɐ ˈnadɐ ‖ i tu] | I've only got about three euros, that won't buy anything. And you? |
 | Maria | Tenho quatro. | [ˈtɐɲu ˈkwatɾu] | I've got four. |
-| Carlos | 'Tá bem, juntos já dá para trincar qualquer coisa. Anda daí. | [ta bɐ̃j̃ | ˈʒũtuʒ ʒa da ˈpɐɾɐ tɾĩˈkaɾ kwaɫˈkɛɾ ˈkojzɐ ‖ ˈɐ̃dɐ dɐˈi] | OK, together that's enough for a bite. Come on. |
+| Carlos | 'Tá bem, juntos já dá para trincar qualquer coisa. Anda daí. | [ta bɐ̃j̃ &#124; ˈʒũtuʒ ʒa da ˈpɐɾɐ tɾĩˈkaɾ kwaɫˈkɛɾ ˈkojzɐ ‖ ˈɐ̃dɐ dɐˈi] | OK, together that's enough for a bite. Come on. |
 
 ***Apetecer* instead of *querer*.** *O que é que você quer?* can sound abrupt. For food and drink, Portuguese uses *apetecer* (<Lat>[ɐpɨtɨˈseɾ]</Lat> - to feel like): *O que é que te apetece comer?* (<Lat>[u kɨ ɛ kɨ tɨ ɐpɨˈtɛsɨ kuˈmeɾ]</Lat> - What do you fancy eating?), *Apetece-te alguma coisa?* (<Lat>[ɐpɨˈtɛsɨtɨ aɫˈɡumɐ ˈkojzɐ]</Lat> - Do you fancy anything?). Waiters ask *O que vai ser para os senhores?* (<Lat>[u kɨ vaj seɾ ˈpɐɾɐ uʃ sɨˈɲoɾɨʃ]</Lat> - What will it be for you?) or *O que é que desejava?* (<Lat>[u kɨ ɛ kɨ dɨzɨˈʒavɐ]</Lat> - What would you like?).
 

@@ -11,9 +11,9 @@ An American man approaches a Portuguese woman in the street.
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
 | Man | Com licença, minha senhora. A senhora percebe inglês? | [kõ liˈsẽsɐ ˈmiɲɐ sɨˈɲɔɾɐ ‖ ɐ sɨˈɲɔɾɐ pɨɾˈsɛbɨ ĩˈɡleʃ] | Excuse me, madam. Do you understand English? |
-| Woman | Não, eu não percebo inglês. Eu falo um pouco de português. | [nɐ̃w̃ | ew nɐ̃w̃ pɨɾˈsebu ĩˈɡleʃ ‖ ew ˈfalu ũ ˈpoku dɨ puɾtuˈɡeʃ] | No, I don't understand English. I speak a little Portuguese. |
+| Woman | Não, eu não percebo inglês. Eu falo um pouco de português. | [nɐ̃w̃ &#124; ew nɐ̃w̃ pɨɾˈsebu ĩˈɡleʃ ‖ ew ˈfalu ũ ˈpoku dɨ puɾtuˈɡeʃ] | No, I don't understand English. I speak a little Portuguese. |
 | Woman | O senhor é americano? | [u sɨˈɲoɾ ɛ ɐmɨɾiˈkɐnu] | Are you American? |
-| Man | Eu sou, minha senhora. | [ew so | ˈmiɲɐ sɨˈɲɔɾɐ] | I am, madam. |
+| Man | Eu sou, minha senhora. | [ew so &#124; ˈmiɲɐ sɨˈɲɔɾɐ] | I am, madam. |
 
 ## Concepts
 
@@ -82,10 +82,10 @@ The same scene as people in Portugal would really say it, still polite with a st
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| Man | Olhe, desculpe. Fala inglês? | [ˈɔʎɨ | dɨʃˈkuɫpɨ ‖ ˈfalɐ ĩˈɡleʃ] | Sorry, excuse me. Do you speak English? |
-| Woman | Não, não falo inglês. Só arranho um bocadinho de português. | [nɐ̃w̃ | nɐ̃w̃ ˈfalu ĩˈɡleʃ ‖ sɔ ɐˈʁɐɲu ũ bukɐˈdiɲu dɨ puɾtuˈɡeʃ] | No, I don't speak English. I only get by in a tiny bit of Portuguese. |
+| Man | Olhe, desculpe. Fala inglês? | [ˈɔʎɨ &#124; dɨʃˈkuɫpɨ ‖ ˈfalɐ ĩˈɡleʃ] | Sorry, excuse me. Do you speak English? |
+| Woman | Não, não falo inglês. Só arranho um bocadinho de português. | [nɐ̃w̃ &#124; nɐ̃w̃ ˈfalu ĩˈɡleʃ ‖ sɔ ɐˈʁɐɲu ũ bukɐˈdiɲu dɨ puɾtuˈɡeʃ] | No, I don't speak English. I only get by in a tiny bit of Portuguese. |
 | Woman | É americano? | [ɛ ɐmɨɾiˈkɐnu] | Are you American? |
-| Man | Sou, sim. | [so | sĩ] | Yes, I am. |
+| Man | Sou, sim. | [so &#124; sĩ] | Yes, I am. |
 
 *Minha senhora* sounds ceremonious, almost theatrical, on the street today. To approach a stranger, people say *Desculpe...* (<Lat>[dɨʃˈkuɫpɨ]</Lat> - excuse me) or *Olhe, desculpe...* (<Lat>[ˈɔʎɨ | dɨʃˈkuɫpɨ]</Lat> - look, sorry); young people among themselves say *Desculpa lá...* (<Lat>[dɨʃˈkuɫpɐ la]</Lat> - sorry, hey).
 

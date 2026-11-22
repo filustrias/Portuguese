@@ -14,8 +14,8 @@ A woman greets the American man and compliments his Portuguese.
 | Man | Bom dia. | [bõ ˈdiɐ] | Good morning. |
 | Woman | Como está? Está bem? | [ˈkomu ɨʃˈta ‖ ɨʃˈta bɐ̃j̃] | How are you? Are you well? |
 | Man | Não muito bem. Eu não percebo português. | [nɐ̃w̃ ˈmũj̃tu bɐ̃j̃ ‖ ew nɐ̃w̃ pɨɾˈsebu puɾtuˈɡeʃ] | Not very well. I don't understand Portuguese. |
-| Woman | O senhor percebe... percebe bem. O senhor fala muito bem! | [u sɨˈɲoɾ pɨɾˈsɛbɨ | pɨɾˈsɛbɨ bɐ̃j̃ ‖ u sɨˈɲoɾ ˈfalɐ ˈmũj̃tu bɐ̃j̃] | You understand... you understand well. You speak very well! |
-| Man | Obrigado, minha senhora. | [ɔbɾiˈɡadu | ˈmiɲɐ sɨˈɲɔɾɐ] | Thank you, madam. |
+| Woman | O senhor percebe... percebe bem. O senhor fala muito bem! | [u sɨˈɲoɾ pɨɾˈsɛbɨ &#124; pɨɾˈsɛbɨ bɐ̃j̃ ‖ u sɨˈɲoɾ ˈfalɐ ˈmũj̃tu bɐ̃j̃] | You understand... you understand well. You speak very well! |
+| Man | Obrigado, minha senhora. | [ɔbɾiˈɡadu &#124; ˈmiɲɐ sɨˈɲɔɾɐ] | Thank you, madam. |
 
 ## Concepts
 
@@ -65,10 +65,10 @@ Two acquaintances, using *tu* (<Lat>[tu]</Lat> - you, informal).
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| Woman | Bom dia! Então, tudo bem? | [bõ ˈdiɐ ‖ ẽˈtɐ̃w̃ | ˈtudu bɐ̃j̃] | Morning! So, all good? |
+| Woman | Bom dia! Então, tudo bem? | [bõ ˈdiɐ ‖ ẽˈtɐ̃w̃ &#124; ˈtudu bɐ̃j̃] | Morning! So, all good? |
 | Man | Mais ou menos. Não estou a perceber nada de português. | [majz o ˈmenuʃ ‖ nɐ̃w̃ ɨʃˈto ɐ pɨɾsɨˈbeɾ ˈnadɐ dɨ puɾtuˈɡeʃ] | So-so. I'm not understanding any Portuguese at all. |
-| Woman | Ouve lá, percebes... percebes perfeitamente. Até falas muito bem! | [ˈovɨ la | pɨɾˈsɛbɨʃ | pɨɾˈsɛbɨʃ pɨɾfɐjtɐˈmẽtɨ ‖ ɐˈtɛ ˈfalɐʒ ˈmũj̃tu bɐ̃j̃] | Come on, you understand... you understand perfectly. You even speak very well! |
-| Man | Obrigado, és muito simpática. | [ɔbɾiˈɡadu | ɛʒ ˈmũj̃tu sĩˈpatikɐ] | Thanks, you're very kind. |
+| Woman | Ouve lá, percebes... percebes perfeitamente. Até falas muito bem! | [ˈovɨ la &#124; pɨɾˈsɛbɨʃ &#124; pɨɾˈsɛbɨʃ pɨɾfɐjtɐˈmẽtɨ ‖ ɐˈtɛ ˈfalɐʒ ˈmũj̃tu bɐ̃j̃] | Come on, you understand... you understand perfectly. You even speak very well! |
+| Man | Obrigado, és muito simpática. | [ɔbɾiˈɡadu &#124; ɛʒ ˈmũj̃tu sĩˈpatikɐ] | Thanks, you're very kind. |
 
 **Careful with *você*.** Saying the word *você* out loud to someone in Portugal can sound cold, condescending or even rude. People avoid the word itself:
 

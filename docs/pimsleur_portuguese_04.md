@@ -11,10 +11,10 @@ In the evening, the American man introduces himself to a woman. The twist: she i
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
 | Man | Boa noite! Como está? A senhora percebe-me? | [ˈboɐ ˈnojtɨ ‖ ˈkomu ɨʃˈta ‖ ɐ sɨˈɲɔɾɐ pɨɾˈsɛbɨmɨ] | Good evening! How are you? Do you understand me? |
-| Man | Eu sou americano, mas eu falo um pouco de português. | [ew so ɐmɨɾiˈkɐnu | mɐz ew ˈfalu ũ ˈpoku dɨ puɾtuˈɡeʃ] | I'm American, but I speak a little Portuguese. |
+| Man | Eu sou americano, mas eu falo um pouco de português. | [ew so ɐmɨɾiˈkɐnu &#124; mɐz ew ˈfalu ũ ˈpoku dɨ puɾtuˈɡeʃ] | I'm American, but I speak a little Portuguese. |
 | Man | Eu chamo-me John Smith e sou de Los Angeles. | [ew ˈʃɐmumɨ dʒɔn smiθ i so dɨ luʒ ˈɐ̃ʒɨlɨʃ] | My name is John Smith and I'm from Los Angeles. |
-| Woman | Eu não o percebo. Eu sou americana, dos Estados Unidos. Adeus. | [ew nɐ̃w̃ u pɨɾˈsebu ‖ ew so ɐmɨɾiˈkɐnɐ | duz ɨʃˈtaduz uˈniduʃ ‖ ɐˈdewʃ] | I don't understand you. I'm American, from the United States. Goodbye. |
-| Man | Boa noite, minha senhora. | [ˈboɐ ˈnojtɨ | ˈmiɲɐ sɨˈɲɔɾɐ] | Good night, madam. |
+| Woman | Eu não o percebo. Eu sou americana, dos Estados Unidos. Adeus. | [ew nɐ̃w̃ u pɨɾˈsebu ‖ ew so ɐmɨɾiˈkɐnɐ &#124; duz ɨʃˈtaduz uˈniduʃ ‖ ɐˈdewʃ] | I don't understand you. I'm American, from the United States. Goodbye. |
+| Man | Boa noite, minha senhora. | [ˈboɐ ˈnojtɨ &#124; ˈmiɲɐ sɨˈɲɔɾɐ] | Good night, madam. |
 
 ## Concepts
 
@@ -73,10 +73,10 @@ In the evening, the American man introduces himself to a woman. The twist: she i
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| Man | Boa noite, tudo bem? Olhe, percebe-me? | [ˈboɐ ˈnojtɨ | ˈtudu bɐ̃j̃ ‖ ˈɔʎɨ | pɨɾˈsɛbɨmɨ] | Good evening, all well? Listen, do you understand me? |
-| Man | Sou americano, mas arranho um bocado de português. Sou o John Smith, de Los Angeles. | [so ɐmɨɾiˈkɐnu | mɐz ɐˈʁɐɲu ũ buˈkadu dɨ puɾtuˈɡeʃ ‖ so u dʒɔn smiθ | dɨ luʒ ˈɐ̃ʒɨlɨʃ] | I'm American, but I get by in a bit of Portuguese. I'm John Smith, from Los Angeles. |
-| Woman | Não estou a perceber nada do que está a dizer. Eu também sou americana. Fique bem, boa noite. | [nɐ̃w̃ ɨʃˈto ɐ pɨɾsɨˈbeɾ ˈnadɐ du kɨ ɨʃˈta ɐ diˈzeɾ ‖ ew tɐ̃ˈbɐ̃j̃ so ɐmɨɾiˈkɐnɐ ‖ ˈfikɨ bɐ̃j̃ | ˈboɐ ˈnojtɨ] | I don't understand a thing you're saying. I'm American too. Take care, good night. |
-| Man | Boa noite, então. | [ˈboɐ ˈnojtɨ | ẽˈtɐ̃w̃] | Good night, then. |
+| Man | Boa noite, tudo bem? Olhe, percebe-me? | [ˈboɐ ˈnojtɨ &#124; ˈtudu bɐ̃j̃ ‖ ˈɔʎɨ &#124; pɨɾˈsɛbɨmɨ] | Good evening, all well? Listen, do you understand me? |
+| Man | Sou americano, mas arranho um bocado de português. Sou o John Smith, de Los Angeles. | [so ɐmɨɾiˈkɐnu &#124; mɐz ɐˈʁɐɲu ũ buˈkadu dɨ puɾtuˈɡeʃ ‖ so u dʒɔn smiθ &#124; dɨ luʒ ˈɐ̃ʒɨlɨʃ] | I'm American, but I get by in a bit of Portuguese. I'm John Smith, from Los Angeles. |
+| Woman | Não estou a perceber nada do que está a dizer. Eu também sou americana. Fique bem, boa noite. | [nɐ̃w̃ ɨʃˈto ɐ pɨɾsɨˈbeɾ ˈnadɐ du kɨ ɨʃˈta ɐ diˈzeɾ ‖ ew tɐ̃ˈbɐ̃j̃ so ɐmɨɾiˈkɐnɐ ‖ ˈfikɨ bɐ̃j̃ &#124; ˈboɐ ˈnojtɨ] | I don't understand a thing you're saying. I'm American too. Take care, good night. |
+| Man | Boa noite, então. | [ˈboɐ ˈnojtɨ &#124; ẽˈtɐ̃w̃] | Good night, then. |
 
 ***É que* is the key to spoken Portuguese.** It does not sound wordy; it sounds natural and softens the question. *Onde fica?* (<Lat>[ˈõdɨ ˈfikɐ]</Lat> - where is it?) is written or formal; *Onde é que fica?* is what you hear. Likewise *De onde é que és?* (<Lat>[dɨ ˈõdɨ ɛ kɨ ɛʃ]</Lat> - where are you from?, informal).
 

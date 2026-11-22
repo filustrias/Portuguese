@@ -10,8 +10,8 @@ João wants to know how much money Maria has on her.
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| João | Maria, quantos euros é que você tem? | [mɐˈɾiɐ | ˈkwɐ̃tuz ˈewɾuz ɛ kɨ vɔˈse tɐ̃j̃] | Maria, how many euros do you have? |
-| Maria | Eu não tenho muitos euros, João. Dois euros. | [ew nɐ̃w̃ ˈtɐɲu ˈmũj̃tuz ˈewɾuʃ | ʒuˈɐ̃w̃ ‖ dojz ˈewɾuʃ] | I don't have many euros, João. Two euros. |
+| João | Maria, quantos euros é que você tem? | [mɐˈɾiɐ &#124; ˈkwɐ̃tuz ˈewɾuz ɛ kɨ vɔˈse tɐ̃j̃] | Maria, how many euros do you have? |
+| Maria | Eu não tenho muitos euros, João. Dois euros. | [ew nɐ̃w̃ ˈtɐɲu ˈmũj̃tuz ˈewɾuʃ &#124; ʒuˈɐ̃w̃ ‖ dojz ˈewɾuʃ] | I don't have many euros, João. Two euros. |
 | João | Você não tem muitos euros na sua carteira? | [vɔˈse nɐ̃w̃ tɐ̃j̃ ˈmũj̃tuz ˈewɾuʒ nɐ ˈsuɐ kɐɾˈtɐjɾɐ] | You don't have many euros in your wallet? |
 | Maria | Na minha casa eu tenho muitos euros. Vamos. | [nɐ ˈmiɲɐ ˈkazɐ ew ˈtɐɲu ˈmũj̃tuz ˈewɾuʃ ‖ ˈvɐmuʃ] | At my place I have lots of euros. Let's go. |
 
@@ -71,10 +71,10 @@ João wants to know how much money Maria has on her.
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| João | Ó Maria, quanto dinheiro é que tens aí contigo? | [ɔ mɐˈɾiɐ | ˈkwɐ̃tu diˈɲɐjɾu ɛ kɨ tɐ̃j̃z ɐˈi kõˈtiɡu] | Hey Maria, how much money have you got on you? |
-| Maria | Quase nada, João... só tenho dois euros. | [ˈkwazɨ ˈnadɐ | ʒuˈɐ̃w̃ ‖ sɔ ˈtɐɲu dojz ˈewɾuʃ] | Hardly anything, João... I've only got two euros. |
+| João | Ó Maria, quanto dinheiro é que tens aí contigo? | [ɔ mɐˈɾiɐ &#124; ˈkwɐ̃tu diˈɲɐjɾu ɛ kɨ tɐ̃j̃z ɐˈi kõˈtiɡu] | Hey Maria, how much money have you got on you? |
+| Maria | Quase nada, João... só tenho dois euros. | [ˈkwazɨ ˈnadɐ &#124; ʒuˈɐ̃w̃ ‖ sɔ ˈtɐɲu dojz ˈewɾuʃ] | Hardly anything, João... I've only got two euros. |
 | João | Não tens mais nada na carteira? | [nɐ̃w̃ tɐ̃j̃ʒ majʒ ˈnadɐ nɐ kɐɾˈtɐjɾɐ] | Nothing else in your wallet? |
-| Maria | Tenho lá em casa. Anda daí, vamos embora! | [ˈtɐɲu la ɐ̃j̃ ˈkazɐ ‖ ˈɐ̃dɐ dɐˈi | ˈvɐmuz ẽˈbɔɾɐ] | I've got some back home. Come on, let's go! |
+| Maria | Tenho lá em casa. Anda daí, vamos embora! | [ˈtɐɲu la ɐ̃j̃ ˈkazɐ ‖ ˈɐ̃dɐ dɐˈi &#124; ˈvɐmuz ẽˈbɔɾɐ] | I've got some back home. Come on, let's go! |
 
 **At home.** *Na minha casa* is correct, but the most natural ways to say "at home" are *em casa* (<Lat>[ɐ̃j̃ ˈkazɐ]</Lat> - at home), *em minha casa* (<Lat>[ɐ̃j̃ ˈmiɲɐ ˈkazɐ]</Lat> - at my place) or *lá em casa* (<Lat>[la ɐ̃j̃ ˈkazɐ]</Lat> - back at home): *Tenho dinheiro lá em casa.* (<Lat>[ˈtɐɲu diˈɲɐjɾu la ɐ̃j̃ ˈkazɐ]</Lat> - I've got money back home.)
 

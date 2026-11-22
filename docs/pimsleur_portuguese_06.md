@@ -10,15 +10,15 @@ Maria meets her friend João and asks him for some money.
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| Maria | Olá, João. | [ɔˈla | ʒuˈɐ̃w̃] | Hi, João. |
-| João | Ah, boa tarde, Maria. Como é que você está? | [a | ˈboɐ ˈtaɾdɨ | mɐˈɾiɐ ‖ ˈkomu ɛ kɨ vɔˈse ɨʃˈta] | Oh, good afternoon, Maria. How are you? |
-| Maria | Não estou muito bem, João. Se faz favor, você tem alguns euros? | [nɐ̃w̃ ɨʃˈto ˈmũj̃tu bɐ̃j̃ | ʒuˈɐ̃w̃ ‖ sɨ faʃ fɐˈvoɾ | vɔˈse tɐ̃j̃ aɫˈɡũz ˈewɾuʃ] | I'm not very well, João. Please, do you have a few euros? |
-| João | Não, eu não tenho. | [nɐ̃w̃ | ew nɐ̃w̃ ˈtɐɲu] | No, I don't. |
+| Maria | Olá, João. | [ɔˈla &#124; ʒuˈɐ̃w̃] | Hi, João. |
+| João | Ah, boa tarde, Maria. Como é que você está? | [a &#124; ˈboɐ ˈtaɾdɨ &#124; mɐˈɾiɐ ‖ ˈkomu ɛ kɨ vɔˈse ɨʃˈta] | Oh, good afternoon, Maria. How are you? |
+| Maria | Não estou muito bem, João. Se faz favor, você tem alguns euros? | [nɐ̃w̃ ɨʃˈto ˈmũj̃tu bɐ̃j̃ &#124; ʒuˈɐ̃w̃ ‖ sɨ faʃ fɐˈvoɾ &#124; vɔˈse tɐ̃j̃ aɫˈɡũz ˈewɾuʃ] | I'm not very well, João. Please, do you have a few euros? |
+| João | Não, eu não tenho. | [nɐ̃w̃ &#124; ew nɐ̃w̃ ˈtɐɲu] | No, I don't. |
 | Maria | Mas você tem dólares? | [mɐʒ vɔˈse tɐ̃j̃ ˈdɔlɐɾɨʃ] | But do you have dollars? |
 | João | Eu não tenho dólares. | [ew nɐ̃w̃ ˈtɐɲu ˈdɔlɐɾɨʃ] | I don't have dollars. |
-| Maria | Você é americano, não é? | [vɔˈse ɛ ɐmɨɾiˈkɐnu | nɐ̃w̃ ɛ] | You're American, aren't you? |
-| João | Eu sou americano, mas não tenho dólares. | [ew so ɐmɨɾiˈkɐnu | mɐʒ nɐ̃w̃ ˈtɐɲu ˈdɔlɐɾɨʃ] | I'm American, but I don't have dollars. |
-| Maria | Bem, obrigada, João. | [bɐ̃j̃ | ɔbɾiˈɡadɐ | ʒuˈɐ̃w̃] | Well, thanks, João. |
+| Maria | Você é americano, não é? | [vɔˈse ɛ ɐmɨɾiˈkɐnu &#124; nɐ̃w̃ ɛ] | You're American, aren't you? |
+| João | Eu sou americano, mas não tenho dólares. | [ew so ɐmɨɾiˈkɐnu &#124; mɐʒ nɐ̃w̃ ˈtɐɲu ˈdɔlɐɾɨʃ] | I'm American, but I don't have dollars. |
+| Maria | Bem, obrigada, João. | [bɐ̃j̃ &#124; ɔbɾiˈɡadɐ &#124; ʒuˈɐ̃w̃] | Well, thanks, João. |
 
 ## Concepts
 
@@ -89,15 +89,15 @@ Friends who call each other by their first names use *tu*.
 
 | Who | Portuguese | IPA | English |
 |:--|:--|:--|:--|
-| Maria | Olá, João! | [ɔˈla | ʒuˈɐ̃w̃] | Hi, João! |
-| João | Olha, viva, Maria! Tudo bem contigo? | [ˈɔʎɐ | ˈvivɐ | mɐˈɾiɐ ‖ ˈtudu bɐ̃j̃ kõˈtiɡu] | Hey, hello, Maria! All good with you? |
-| Maria | Nem por isso... Olha lá, tens aí uns trocos que me arranjes? | [nɐ̃j̃ puɾ ˈisu ‖ ˈɔʎɐ la | tɐ̃j̃z ɐˈi ũʃ ˈtɾɔkuʃ kɨ mɨ ɐˈʁɐ̃ʒɨʃ] | Not really... Listen, have you got some change you could spare me? |
+| Maria | Olá, João! | [ɔˈla &#124; ʒuˈɐ̃w̃] | Hi, João! |
+| João | Olha, viva, Maria! Tudo bem contigo? | [ˈɔʎɐ &#124; ˈvivɐ &#124; mɐˈɾiɐ ‖ ˈtudu bɐ̃j̃ kõˈtiɡu] | Hey, hello, Maria! All good with you? |
+| Maria | Nem por isso... Olha lá, tens aí uns trocos que me arranjes? | [nɐ̃j̃ puɾ ˈisu ‖ ˈɔʎɐ la &#124; tɐ̃j̃z ɐˈi ũʃ ˈtɾɔkuʃ kɨ mɨ ɐˈʁɐ̃ʒɨʃ] | Not really... Listen, have you got some change you could spare me? |
 | João | Por acaso não tenho nada na carteira. | [puɾ ɐˈkazu nɐ̃w̃ ˈtɐɲu ˈnadɐ nɐ kɐɾˈtɐjɾɐ] | Actually I've got nothing in my wallet. |
 | Maria | Mas tens dólares? | [mɐʃ tɐ̃j̃ʒ ˈdɔlɐɾɨʃ] | But have you got dollars? |
-| João | Não, dólares também não tenho. | [nɐ̃w̃ | ˈdɔlɐɾɨʃ tɐ̃ˈbɐ̃j̃ nɐ̃w̃ ˈtɐɲu] | No, I haven't got dollars either. |
-| Maria | Mas tu és americano, não és? | [mɐʃ tu ɛz ɐmɨɾiˈkɐnu | nɐ̃w̃ ɛʃ] | But you're American, aren't you? |
-| João | Sou americano, mas agora estou sem dinheiro nenhum! | [so ɐmɨɾiˈkɐnu | mɐz ɐˈɡɔɾɐ ɨʃˈto sɐ̃j̃ diˈɲɐjɾu nɨˈɲũ] | I'm American, but right now I'm completely broke! |
-| Maria | Pronto, paciência. Obrigada na mesma, João. | [ˈpɾõtu | pɐsiˈẽsiɐ ‖ ɔbɾiˈɡadɐ nɐ ˈmeʒmɐ | ʒuˈɐ̃w̃] | Oh well, never mind. Thanks anyway, João. |
+| João | Não, dólares também não tenho. | [nɐ̃w̃ &#124; ˈdɔlɐɾɨʃ tɐ̃ˈbɐ̃j̃ nɐ̃w̃ ˈtɐɲu] | No, I haven't got dollars either. |
+| Maria | Mas tu és americano, não és? | [mɐʃ tu ɛz ɐmɨɾiˈkɐnu &#124; nɐ̃w̃ ɛʃ] | But you're American, aren't you? |
+| João | Sou americano, mas agora estou sem dinheiro nenhum! | [so ɐmɨɾiˈkɐnu &#124; mɐz ɐˈɡɔɾɐ ɨʃˈto sɐ̃j̃ diˈɲɐjɾu nɨˈɲũ] | I'm American, but right now I'm completely broke! |
+| Maria | Pronto, paciência. Obrigada na mesma, João. | [ˈpɾõtu &#124; pɐsiˈẽsiɐ ‖ ɔbɾiˈɡadɐ nɐ ˈmeʒmɐ &#124; ʒuˈɐ̃w̃] | Oh well, never mind. Thanks anyway, João. |
 
 **Friends say *tu*.** The course has João and Maria use first names and *você*, so as not to confuse the learner. In Portugal two friends on first-name terms always say *tu*: *Como é que estás? Tens aí uns euros?* (<Lat>[ˈkomu ɛ kɨ ɨʃˈtaʃ ‖ tɐ̃j̃z ɐˈi ũz ˈewɾuʃ]</Lat> - How are you? Have you got a few euros?)
 
